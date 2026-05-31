@@ -1,0 +1,34 @@
+%%{init: {'theme':'base', 'themeVariables': {'fontSize':'14px','fontFamily':'Helvetica, Arial, sans-serif'}}}%%
+flowchart TD
+    A["Pooled OMOP + EU-ADR universe<br/>n = 492<br/>(OMOP n = 399; EU-ADR n = 93)"]
+    B["Per-pair 2&times;2 + ROR signal rule<br/>(lower 95% CI bound &gt; 1 AND a &ge; 3)<br/>in both FAERS and DAEN"]
+    C["FAERS-positive Arm-1 pairs<br/>n = 292"]
+    D["DAEN underpowered (daen_mde &gt; 1.5)<br/>n = 248<br/><i>set aside per Section 4</i>"]
+    E["DAEN powered (daen_mde &le; 1.5)<br/>n = 44<br/><i>Family 1 H2 universe</i>"]
+    F["H1 stratum (Family 2)<br/>6 faers_only + 38 concordant_positive<br/>= 44 pairs"]
+    G["Family 4 Arm-1 mechanism intersection<br/>6 pairs (&lt; 20 reservation threshold)<br/>&rarr; INSUFFICIENT N"]
+    H["RESERVATION RULE BINDS<br/>headline cannot use 'artefact'"]
+
+    A --> B
+    B --> C
+    C --> D
+    C --> E
+    E --> F
+    F --> G
+    G --> H
+
+    classDef universe fill:#dfe7ef,stroke:#2b4c69,stroke-width:1.2px,color:#111;
+    classDef process fill:#fff7e0,stroke:#8a6e1c,stroke-width:1.2px,color:#111;
+    classDef powered fill:#dff0e0,stroke:#2c5f2c,stroke-width:1.2px,color:#111;
+    classDef setaside fill:#f0e0e0,stroke:#6e2a2a,stroke-width:1.2px,color:#111;
+    classDef warn fill:#fdf3d4,stroke:#8f7b27,stroke-width:1.2px,color:#111;
+    classDef bind fill:#f7dfdf,stroke:#8f2727,stroke-width:1.6px,color:#111;
+
+    class A universe;
+    class B process;
+    class C universe;
+    class D setaside;
+    class E powered;
+    class F powered;
+    class G warn;
+    class H bind;

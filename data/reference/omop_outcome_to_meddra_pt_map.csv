@@ -1,0 +1,109 @@
+outcomeName,outcomeId,meddra_pt,source,rationale
+Anaphylaxis #1,500001101,Anaphylactic reaction,harpaz_2014_narrow,Harpaz 2014 narrow definition of Anaphylaxis
+Anaphylaxis #1,500001101,Anaphylactic shock,harpaz_2014_narrow,Harpaz 2014 narrow definition of Anaphylaxis
+Anaphylaxis #1,500001101,Anaphylactic transfusion reaction,harpaz_2014_narrow,Harpaz 2014 narrow definition of Anaphylaxis
+Anaphylaxis #1,500001101,Kounis syndrome,harpaz_2014_narrow,Harpaz 2014 narrow definition of Anaphylaxis
+Cardiac Valve Fibrosis #1,500002501,Cardiac valve disease,investigator_curated,EU-ADR signal originally defined around left-sided valvulopathy (e.g. ergotamine; fenfluramine); generic PT for valvular disease
+Cardiac Valve Fibrosis #1,500002501,Aortic valve incompetence,investigator_curated,Left-sided regurgitant valvulopathy classically observed with serotonergic agents
+Cardiac Valve Fibrosis #1,500002501,Mitral valve incompetence,investigator_curated,Left-sided regurgitant valvulopathy classically observed with serotonergic agents
+Cardiac Valve Fibrosis #1,500002501,Tricuspid valve incompetence,investigator_curated,Right-sided valvulopathy observed with serotonergic and ergot derivatives
+Cardiac Valve Fibrosis #1,500002501,Pulmonary valve incompetence,investigator_curated,Right-sided valvulopathy observed with serotonergic and ergot derivatives
+Cardiac Valve Fibrosis #1,500002501,Heart valve sclerosis,investigator_curated,Fibrotic valve thickening
+Cardiac Valve Fibrosis #1,500002501,Cardiac fibrosis,investigator_curated,Generic fibrotic process of cardiac tissue
+Cardiac Valve Fibrosis #1,500002501,Endocardial fibrosis,investigator_curated,Endocardial-layer fibrosis (component of valvulopathy)
+HOI Upper GI #3,500001003,Gastrointestinal haemorrhage,investigator_curated,Generic GI bleeding PT (upper or lower); included because many cases code at this level
+HOI Upper GI #3,500001003,Upper gastrointestinal haemorrhage,investigator_curated,Specific upper-GI bleed PT
+HOI Upper GI #3,500001003,Haematemesis,investigator_curated,Classical sign of upper GI bleeding
+HOI Upper GI #3,500001003,Melaena,investigator_curated,Classical sign of upper GI bleeding
+HOI Upper GI #3,500001003,Peptic ulcer haemorrhage,investigator_curated,Bleeding from peptic ulcer (the main mechanistic substrate)
+HOI Upper GI #3,500001003,Gastric ulcer haemorrhage,investigator_curated,Bleeding from gastric ulcer
+HOI Upper GI #3,500001003,Duodenal ulcer haemorrhage,investigator_curated,Bleeding from duodenal ulcer
+HOI Upper GI #3,500001003,Gastric ulcer,investigator_curated,Ulcer without explicit haemorrhage coding (cases sometimes coded at ulcer-only)
+HOI Upper GI #3,500001003,Duodenal ulcer,investigator_curated,Ulcer without explicit haemorrhage coding
+HOI Upper GI #3,500001003,Peptic ulcer,investigator_curated,Generic peptic-ulcer PT
+HOI Upper GI #3,500001003,Gastric perforation,investigator_curated,OMOP HOI Upper GI #3 includes perforation as a severe complication
+HOI Upper GI #3,500001003,Duodenal perforation,investigator_curated,OMOP HOI Upper GI #3 includes perforation as a severe complication
+HOI Upper GI #3,500001003,Peptic ulcer perforation,investigator_curated,OMOP HOI Upper GI #3 includes perforation as a severe complication
+HOI Upper GI #3,500001003,Gastrointestinal ulcer haemorrhage,investigator_curated,Generic GI-ulcer bleeding PT
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Leukopenia,investigator_curated,Generic leukocyte deficiency; named in the outcome label itself
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Neutropenia,investigator_curated,Named in the outcome label itself
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Agranulocytosis,investigator_curated,Named in the outcome label itself
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Granulocytopenia,investigator_curated,Older synonym of severe neutropenia; remains a current MedDRA PT
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Neutrophil count decreased,investigator_curated,Laboratory-finding PT often used in lieu of clinical diagnosis
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,White blood cell count decreased,investigator_curated,Laboratory-finding PT often used in lieu of clinical diagnosis
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Granulocyte count decreased,investigator_curated,Laboratory-finding PT
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Febrile neutropenia,investigator_curated,Clinical phenotype of severe neutropenia
+Leukopenia Including Neutropenia and Agranulocytosis,500001601,Idiopathic neutropenia,investigator_curated,Drug-induced cases may be coded as idiopathic when cause uncertain
+OMOP Acute Liver Failure 1,500000301,Alanine aminotransferase abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Alanine aminotransferase increased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Aspartate aminotransferase abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Aspartate aminotransferase increased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Biliary tract disorder,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Bilirubin conjugated abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Bilirubin conjugated increased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Bilirubin excretion disorder,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Biopsy liver abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Blood bilirubin abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Blood bilirubin increased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Blood bilirubin unconjugated increased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Coma hepatic,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic cirrhosis,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic congestion,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic enzyme abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic enzyme decreased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic enzyme increased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic failure,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic fibrosis,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic function abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic infarction,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic necrosis,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic pain,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatic steatosis,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatitis,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatomegaly,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatorenal syndrome,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hepatotoxicity,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hyperbilirubinaemia,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Hypertransaminasaemia,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Icterus index increased,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Jaundice,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Jaundice hepatocellular,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Liver disorder,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Liver function test abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Liver injury,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Mixed liver injury,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Ocular icterus,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Transaminases abnormal,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Liver Failure 1,500000301,Yellow skin,harpaz_2014_narrow,Harpaz 2014 narrow definition of Liver damage; applied here as the broadest defensible OMOP-Acute-Liver-Failure operational set
+OMOP Acute Renal Failure 1,500000401,Acute kidney injury,investigator_curated,Modern MedDRA-preferred PT for the named outcome
+OMOP Acute Renal Failure 1,500000401,Renal failure,investigator_curated,Generic renal-failure PT
+OMOP Acute Renal Failure 1,500000401,Renal failure acute,investigator_curated,Older PT name for the same syndrome (pre-MedDRA-modern rename)
+OMOP Acute Renal Failure 1,500000401,Renal impairment,investigator_curated,Less-severe renal injury PT often co-reported with acute kidney injury
+OMOP Acute Renal Failure 1,500000401,Anuria,investigator_curated,Classical clinical sign of acute renal failure
+OMOP Acute Renal Failure 1,500000401,Oliguria,investigator_curated,Classical clinical sign of acute renal failure
+OMOP Acute Renal Failure 1,500000401,Renal tubular necrosis,investigator_curated,Histological substrate of drug-induced acute kidney injury
+OMOP Acute Renal Failure 1,500000401,Acute prerenal failure,investigator_curated,Subtype of acute renal failure
+OMOP Acute Renal Failure 1,500000401,Tubulointerstitial nephritis,investigator_curated,Drug-induced acute interstitial nephritis substrate
+OMOP Acute Renal Failure 1,500000401,Nephropathy toxic,investigator_curated,Generic drug-toxic-nephropathy PT
+OMOP Acute Renal Failure 1,500000401,Renal injury,investigator_curated,Generic renal-injury PT
+OMOP Acute myocardial Infarction  1,500000801,Myocardial infarction,investigator_curated,Modern preferred PT for MI
+OMOP Acute myocardial Infarction  1,500000801,Acute myocardial infarction,investigator_curated,Acute-specific PT (the OMOP HOI is explicitly acute)
+OMOP Acute myocardial Infarction  1,500000801,Myocardial infarction silent,investigator_curated,Silent MI PT — included for completeness
+OMOP Acute myocardial Infarction  1,500000801,Coronary artery occlusion,investigator_curated,Mechanistic substrate of MI; often coded
+OMOP Acute myocardial Infarction  1,500000801,Coronary artery thrombosis,investigator_curated,Mechanistic substrate of MI
+OMOP Acute myocardial Infarction  1,500000801,Postinfarction angina,investigator_curated,Post-MI complication PT
+OMOP Aplastic Anemia 1,500000201,Aplastic anaemia,harpaz_2014_narrow,Harpaz 2014 narrow definition of Hematopoietic disorders; restricted here to the aplastic-anaemia subset
+OMOP Aplastic Anemia 1,500000201,Bone marrow failure,harpaz_2014_narrow,Harpaz 2014 narrow definition of Hematopoietic disorders; restricted to the bone-marrow-failure subset
+OMOP Aplastic Anemia 1,500000201,Pancytopenia,harpaz_2014_narrow,Harpaz 2014 narrow definition of Hematopoietic disorders; restricted to pancytopenia subset
+OMOP Aplastic Anemia 1,500000201,Panmyelopathy,harpaz_2014_narrow,Harpaz 2014 narrow definition of Hematopoietic disorders; synonym for panmyelosis
+OMOP Aplastic Anemia 1,500000201,Pure white cell aplasia,harpaz_2014_narrow,Harpaz 2014 narrow definition of Hematopoietic disorders; included as bone-marrow-failure subtype
+OMOP Aplastic Anemia 1,500000201,Bone marrow depression,investigator_curated,Common drug-induced PT for myelosuppression
+Rhabdomyolysis #1,500001901,Rhabdomyolysis,investigator_curated,The named outcome itself; the single primary PT
+Rhabdomyolysis #1,500001901,Myoglobinuria,investigator_curated,Hallmark laboratory finding of rhabdomyolysis
+Rhabdomyolysis #1,500001901,Blood creatine phosphokinase increased,investigator_curated,Hallmark biomarker of rhabdomyolysis; often the only coded PT
+Rhabdomyolysis #1,500001901,Blood creatine phosphokinase abnormal,investigator_curated,Hallmark biomarker of rhabdomyolysis
+Rhabdomyolysis #1,500001901,Muscle injury,investigator_curated,Generic muscle injury PT (clinically reported)
+Rhabdomyolysis #1,500001901,Myopathy,investigator_curated,Drug-induced myopathy is the pre-rhabdomyolysis state
+Stevens-Johnson Syndrome #1,500001301,Stevens-Johnson syndrome,investigator_curated,The named outcome itself
+Stevens-Johnson Syndrome #1,500001301,Toxic epidermal necrolysis,investigator_curated,SJS/TEN spectrum; clinically and mechanistically continuous with SJS
+Stevens-Johnson Syndrome #1,500001301,Erythema multiforme,investigator_curated,Less severe end of the SJS-spectrum; included per Ryan 2013 OMOP HOI convention

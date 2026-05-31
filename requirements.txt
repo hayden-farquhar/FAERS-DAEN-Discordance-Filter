@@ -1,0 +1,12 @@
+# Pinned to the versions used to produce the reported results (Python 3.14.3).
+# The code also runs on Python >= 3.11. If exact reproduction is required,
+# install these exact versions in a clean virtual environment.
+numpy==2.4.3
+pandas==2.2.3
+scipy==1.17.1
+statsmodels==0.14.6
+pyarrow==23.0.1
+tqdm==4.67.3
+
+# Test runner (optional; for `pytest`)
+pytest==9.0.3

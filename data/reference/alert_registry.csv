@@ -1,0 +1,46 @@
+alert_date,drug_ingredient,event_category,source_type,citation,notes
+2004-09-30,rofecoxib,cardiovascular,fda_dsc,"Merck voluntary withdrawal of Vioxx; FDA Public Health Advisory 2004-09-30",Landmark cardiovascular safety withdrawal
+2005-04-07,valdecoxib,cardiovascular_skin,fda_dsc,"FDA Public Health Advisory 2005-04-07 on Bextra (valdecoxib)",Withdrawn for CV + severe skin reactions
+2005-04-07,celecoxib,cardiovascular,fda_dsc,"FDA boxed-warning revision 2005-04-07 (Celebrex cardiovascular class warning)",Class-wide COX-2 warning
+2000-03-23,cisapride,qt_arrhythmia,fda_dsc,"Janssen withdrawal of Propulsid (cisapride) 2000-03-23 after QT-prolongation arrhythmia deaths",Pre-2004 limit of our window
+2001-08-08,cerivastatin,rhabdomyolysis,fda_dsc,"Bayer voluntary withdrawal of Baycol 2001-08-08 for rhabdomyolysis deaths","Pre-2004; included for completeness"
+2008-07-08,levofloxacin,tendon_rupture,fda_dsc,"FDA Drug Safety Communication 2008-07-08 — fluoroquinolone tendon rupture boxed warning (class)","Class warning applies to ciprofloxacin, levofloxacin, moxifloxacin, etc."
+2008-07-08,ciprofloxacin,tendon_rupture,fda_dsc,"Same class warning as levofloxacin 2008-07-08 fluoroquinolone tendon-rupture boxed warning",Class warning
+2008-07-08,moxifloxacin,tendon_rupture,fda_dsc,"Same class warning as levofloxacin 2008-07-08 fluoroquinolone tendon-rupture boxed warning",Class warning
+2018-12-20,levofloxacin,aortic_dissection,fda_dsc,"FDA Drug Safety Communication 2018-12-20 — fluoroquinolone aortic-aneurysm/dissection class warning",Class warning
+2018-12-20,ciprofloxacin,aortic_dissection,fda_dsc,"Same class warning as levofloxacin 2018-12-20",Class warning
+2011-06-15,pioglitazone,bladder_cancer,fda_dsc,"FDA Drug Safety Communication 2011-06-15 on Actos (pioglitazone) bladder cancer signal",Triggered Actos MDL
+2007-09-25,rosiglitazone,cardiovascular,fda_dsc,"FDA Public Health Advisory 2007-09-25 on Avandia (rosiglitazone) cardiovascular risk",Triggered Avandia MDL
+2002-06-19,nefazodone,hepatic_failure,fda_dsc,"Bristol-Myers Squibb hepatic-failure boxed warning on Serzone (nefazodone) 2002-01-08; FDA Talk Paper 2002",Drug eventually withdrawn 2004
+2004-10-15,paroxetine,suicidality_youth,fda_dsc,"FDA Public Health Advisory 2004-10-15 — SSRI class suicidality boxed warning (youth)","Class warning across SSRIs"
+2004-10-15,fluoxetine,suicidality_youth,fda_dsc,"Same class warning as paroxetine 2004-10-15",Class warning
+2004-10-15,sertraline,suicidality_youth,fda_dsc,"Same class warning as paroxetine 2004-10-15",Class warning
+2004-10-15,citalopram,suicidality_youth,fda_dsc,"Same class warning as paroxetine 2004-10-15",Class warning
+2007-05-02,paroxetine,suicidality_adults,fda_dsc,"FDA Public Health Advisory 2007-05-02 — SSRI class suicidality warning extended to young adults",Class warning extension
+2009-01-13,acetaminophen,hepatic_failure,fda_dsc,"FDA Drug Safety Communication 2009-01-13 on acetaminophen hepatotoxicity / dose limits",Substantive media coverage 2011
+2011-01-13,acetaminophen,hepatic_failure,fda_dsc,"FDA Drug Safety Communication 2011-01-13 — acetaminophen 325mg unit-dose limit for combination products","Follow-on to 2009 alert"
+2009-06-09,bisphosphonates,osteonecrosis_jaw,fda_dsc,"FDA Drug Safety Communication 2009-06-09 — bisphosphonate osteonecrosis-of-the-jaw warning",Class-wide
+2010-10-13,alendronate,atypical_femur_fracture,fda_dsc,"FDA Drug Safety Communication 2010-10-13 — bisphosphonate atypical femur fracture warning",Class-wide bisphosphonates
+2010-10-13,risedronate,atypical_femur_fracture,fda_dsc,"Same class warning as alendronate 2010-10-13",Class warning
+2012-02-08,esomeprazole,c_difficile,fda_dsc,"FDA Drug Safety Communication 2012-02-08 — PPI Clostridium difficile infection warning (class)",PPI class warning
+2012-02-08,omeprazole,c_difficile,fda_dsc,"Same class warning as esomeprazole 2012-02-08",PPI class warning
+2012-02-08,pantoprazole,c_difficile,fda_dsc,"Same class warning as esomeprazole 2012-02-08",PPI class warning
+2010-05-25,esomeprazole,fracture,fda_dsc,"FDA Drug Safety Communication 2010-05-25 — PPI hip/wrist/spine fracture risk warning",PPI class warning
+2010-05-25,omeprazole,fracture,fda_dsc,"Same class warning as esomeprazole 2010-05-25",PPI class warning
+2011-12-07,dabigatran,bleeding,fda_dsc,"FDA Drug Safety Communication 2011-12-07 on Pradaxa (dabigatran) post-market bleeding",Triggered Pradaxa MDL
+2018-05-04,canagliflozin,amputation,fda_dsc,"FDA Drug Safety Communication 2018-05-04 — canagliflozin boxed warning amputation removed (warning history 2016-2018)",Triggered Invokana MDL
+2015-12-04,canagliflozin,dka,fda_dsc,"FDA Drug Safety Communication 2015-12-04 — SGLT2 inhibitor diabetic ketoacidosis warning",Class warning
+2015-12-04,empagliflozin,dka,fda_dsc,"Same class warning as canagliflozin 2015-12-04",Class warning
+2015-12-04,dapagliflozin,dka,fda_dsc,"Same class warning as canagliflozin 2015-12-04",Class warning
+2011-04-11,finasteride,sexual_dysfunction,fda_dsc,"FDA label change 2011-04-11 — finasteride persistent sexual dysfunction warning","Major patient-advocacy attention; press coverage extensive"
+2009-01-08,montelukast,neuropsychiatric,fda_dsc,"FDA Drug Safety Communication 2009-01-08 — montelukast neuropsychiatric warning","Extended 2020 with boxed warning"
+2020-03-04,montelukast,neuropsychiatric,fda_dsc,"FDA Drug Safety Communication 2020-03-04 — montelukast boxed warning neuropsychiatric events",Follow-on alert
+2006-06-29,telithromycin,hepatic_failure,fda_dsc,"FDA Public Health Advisory 2006-06-29 — Ketek (telithromycin) hepatic failure",Drug effectively withdrawn
+2008-02-28,natalizumab,pml,fda_dsc,"FDA Public Health Advisory 2008-02-28 — Tysabri (natalizumab) PML cases",Re-marketing risk-management plan
+2020-09-13,ranitidine,carcinogen,fda_dsc,"FDA Drug Safety Communication 2020-04-01 — Zantac (ranitidine) NDMA contamination market withdrawal",Triggered Zantac MDL
+2007-04-10,topiramate,birth_defects,fda_dsc,"FDA Drug Safety Communication 2011-03-04 — Topamax (topiramate) oral cleft birth-defect warning",Triggered Topamax MDL
+2018-04-19,valproate,birth_defects,fda_dsc,"FDA Drug Safety Communication 2018-04-19 — valproate neurodevelopmental harm warning","Long-standing class issue"
+2016-12-02,olanzapine,dress,fda_dsc,"FDA Drug Safety Communication 2016-12-02 — Olanzapine DRESS warning",Severe cutaneous adverse reaction
+2016-08-31,levetiracetam,dress,fda_dsc,"FDA Drug Safety Communication 2016-08-31 — Anticonvulsant DRESS warning",Antiepileptic class
+2007-11-13,terbinafine,hepatic_failure,fda_dsc,"FDA Public Health Advisory 2007-11-13 — Lamisil (terbinafine) hepatic failure",Class warning antifungals
+2005-09-30,gadolinium,nephrogenic_systemic_fibrosis,fda_dsc,"FDA Public Health Advisory 2006-06-08 — Gadolinium-based contrast agents NSF in renal-impaired patients",Imaging contrast warning

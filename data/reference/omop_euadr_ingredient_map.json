@@ -1,0 +1,692 @@
+{
+  "abacavir": [
+    "abacavir",
+    "abacavir sulfate"
+  ],
+  "acarbose": [
+    "acarbose"
+  ],
+  "acetaminophen": [
+    "paracetamol"
+  ],
+  "acetazolamide": [
+    "acetazolamide"
+  ],
+  "acyclovir": [
+    "aciclovir"
+  ],
+  "adenosine": [
+    "adenosine"
+  ],
+  "alatrofloxacin": [
+    "alatrofloxacin"
+  ],
+  "allopurinol": [
+    "allopurinol"
+  ],
+  "amlodipine": [
+    "amlodipine",
+    "amlodipine besilate"
+  ],
+  "amoxicillin": [
+    "amoxicillin",
+    "amoxicillin sodium",
+    "amoxicillin trihydrate"
+  ],
+  "aspirin": [
+    "aspirin"
+  ],
+  "atenolol": [
+    "atenolol"
+  ],
+  "atorvastatin": [
+    "atorvastatin",
+    "atorvastatin calcium",
+    "atorvastatin calcium propylene glycol solvate",
+    "atorvastatin calcium trihydrate"
+  ],
+  "benzocaine": [
+    "benzocaine"
+  ],
+  "bortezomib": [
+    "bortezomib"
+  ],
+  "bosentan": [
+    "bosentan monohydrate"
+  ],
+  "bromocriptine": [
+    "bromocriptine mesilate"
+  ],
+  "busulfan": [
+    "busulfan"
+  ],
+  "candesartan": [
+    "candesartan cilexetil"
+  ],
+  "captopril": [
+    "captopril"
+  ],
+  "carbamazepine": [
+    "carbamazepine"
+  ],
+  "caspofungin": [
+    "caspofungin acetate"
+  ],
+  "celecoxib": [
+    "celecoxib"
+  ],
+  "chlorambucil": [
+    "chlorambucil"
+  ],
+  "chlorothiazide": [
+    "chlorothiazide",
+    "hydrochlorothiazide"
+  ],
+  "ciprofloxacin": [
+    "ciprofloxacin",
+    "ciprofloxacin hydrochloride"
+  ],
+  "citalopram": [
+    "citalopram hydrobromide",
+    "escitalopram",
+    "escitalopram oxalate"
+  ],
+  "clindamycin": [
+    "clindamycin",
+    "clindamycin hydrochloride",
+    "clindamycin palmitate hydrochloride",
+    "clindamycin phosphate"
+  ],
+  "clonidine": [
+    "apraclonidine hydrochloride",
+    "clonidine",
+    "clonidine hydrochloride"
+  ],
+  "clopidogrel": [
+    "clopidogrel",
+    "clopidogrel besilate",
+    "clopidogrel hydrogen sulfate"
+  ],
+  "clozapine": [
+    "clozapine"
+  ],
+  "cyclosporine": [
+    "ciclosporin"
+  ],
+  "dacarbazine": [
+    "dacarbazine"
+  ],
+  "darbepoetin alfa": [
+    "darbepoetin alfa"
+  ],
+  "darifenacin": [
+    "darifenacin"
+  ],
+  "darunavir": [
+    "darunavir"
+  ],
+  "desipramine": [
+    "desipramine hydrochloride"
+  ],
+  "desloratadine": [
+    "desloratadine"
+  ],
+  "diclofenac": [
+    "diclofenac",
+    "diclofenac diethylamine",
+    "diclofenac potassium",
+    "diclofenac sodium"
+  ],
+  "didanosine": [
+    "didanosine"
+  ],
+  "diflunisal": [
+    "diflunisal"
+  ],
+  "diltiazem": [
+    "diltiazem hydrochloride"
+  ],
+  "dipyridamole": [
+    "dipyridamole"
+  ],
+  "disulfiram": [
+    "disulfiram"
+  ],
+  "dorzolamide": [
+    "dorzolamide hydrochloride"
+  ],
+  "doxazosin": [
+    "doxazosin mesylate"
+  ],
+  "droperidol": [
+    "droperidol"
+  ],
+  "efavirenz": [
+    "efavirenz"
+  ],
+  "eletriptan": [
+    "eletriptan hydrobromide"
+  ],
+  "entecavir": [
+    "entecavir",
+    "entecavir monohydrate"
+  ],
+  "epoetin alfa": [
+    "darbepoetin alfa",
+    "epoetin alfa"
+  ],
+  "ergotamine": [
+    "dihydroergotamine mesilate",
+    "ergotamine tartrate"
+  ],
+  "erythromycin": [
+    "erythromycin",
+    "erythromycin estolate",
+    "erythromycin ethyl succinate",
+    "erythromycin gluceptate",
+    "erythromycin lactobionate",
+    "erythromycin stearate"
+  ],
+  "escitalopram": [
+    "escitalopram",
+    "escitalopram oxalate"
+  ],
+  "estradiol": [
+    "estradiol",
+    "estradiol hemihydrate",
+    "estradiol valerate",
+    "ethinylestradiol"
+  ],
+  "estropipate": [
+    "estropipate"
+  ],
+  "eszopiclone": [
+    "zopiclone"
+  ],
+  "felodipine": [
+    "felodipine"
+  ],
+  "fenoprofen": [
+    "fenoprofen calcium"
+  ],
+  "ferrous gluconate": [
+    "ferrous gluconate"
+  ],
+  "ferrous sulfate": [
+    "ferrous sulfate",
+    "ferrous sulfate heptahydrate"
+  ],
+  "fexofenadine": [
+    "fexofenadine hydrochloride"
+  ],
+  "fluconazole": [
+    "fluconazole"
+  ],
+  "fluoxetine": [
+    "fluoxetine hydrochloride"
+  ],
+  "flurbiprofen": [
+    "flurbiprofen sodium dihydrate"
+  ],
+  "flutamide": [
+    "flutamide"
+  ],
+  "fluticasone": [
+    "fluticasone furoate",
+    "fluticasone propionate"
+  ],
+  "fluvastatin": [
+    "fluvastatin"
+  ],
+  "fluvoxamine": [
+    "fluvoxamine maleate"
+  ],
+  "formoterol": [
+    "formoterol fumarate",
+    "formoterol fumarate dihydrate"
+  ],
+  "furosemide": [
+    "furosemide",
+    "furosemide sodium"
+  ],
+  "gatifloxacin": [
+    "gatifloxacin"
+  ],
+  "gemcitabine": [
+    "gemcitabine hydrochloride"
+  ],
+  "gemfibrozil": [
+    "gemfibrozil"
+  ],
+  "glimepiride": [
+    "glimepiride"
+  ],
+  "goserelin": [
+    "goserelin acetate"
+  ],
+  "griseofulvin": [
+    "griseofulvin"
+  ],
+  "heparin": [
+    "heparin",
+    "heparin calcium",
+    "heparin sodium",
+    "heparinoids"
+  ],
+  "hydrochlorothiazide": [
+    "hydrochlorothiazide"
+  ],
+  "hyoscyamine": [
+    "hyoscyamine sulfate dihydrate"
+  ],
+  "ibuprofen": [
+    "ibuprofen",
+    "ibuprofen lysine",
+    "ibuprofen sodium dihydrate"
+  ],
+  "imatinib": [
+    "imatinib",
+    "imatinib mesilate"
+  ],
+  "imipramine": [
+    "imipramine hydrochloride",
+    "trimipramine maleate"
+  ],
+  "indomethacin": [
+    "indomethacin"
+  ],
+  "infliximab": [
+    "infliximab"
+  ],
+  "interferon beta-1a": [
+    "interferon beta-1a",
+    "peginterferon beta-1a"
+  ],
+  "ipratropium": [
+    "ipratropium bromide",
+    "ipratropium bromide monohydrate"
+  ],
+  "irbesartan": [
+    "irbesartan"
+  ],
+  "isoniazid": [
+    "isoniazid"
+  ],
+  "isosorbide": [
+    "diluted isosorbide dinitrate",
+    "isosorbide",
+    "isosorbide dinitrate",
+    "isosorbide mononitrate"
+  ],
+  "itraconazole": [
+    "itraconazole"
+  ],
+  "ketoconazole": [
+    "ketoconazole"
+  ],
+  "ketoprofen": [
+    "ketoprofen"
+  ],
+  "ketorolac": [
+    "ketorolac trometamol"
+  ],
+  "ketotifen": [
+    "ketotifen",
+    "ketotifen fumarate"
+  ],
+  "lactulose": [
+    "lactulose",
+    "lactulose solution"
+  ],
+  "lamivudine": [
+    "lamivudine"
+  ],
+  "lamotrigine": [
+    "lamotrigine"
+  ],
+  "latanoprost": [
+    "latanoprost"
+  ],
+  "levodopa": [
+    "levodopa"
+  ],
+  "levofloxacin": [
+    "levofloxacin",
+    "levofloxacin hemihydrate"
+  ],
+  "levonorgestrel": [
+    "levonorgestrel"
+  ],
+  "lipase": [
+    "pancrelipase"
+  ],
+  "lisinopril": [
+    "lisinopril",
+    "lisinopril dihydrate"
+  ],
+  "lithium carbonate": [
+    "lithium carbonate"
+  ],
+  "loratadine": [
+    "desloratadine",
+    "loratadine"
+  ],
+  "mebendazole": [
+    "mebendazole"
+  ],
+  "mefenamate": [
+    "mefenamic acid"
+  ],
+  "meloxicam": [
+    "meloxicam"
+  ],
+  "methenamine": [
+    "methenamine hippurate",
+    "methenamine mandelate"
+  ],
+  "methimazole": [
+    "carbimazole"
+  ],
+  "methocarbamol": [
+    "methocarbamol"
+  ],
+  "methotrexate": [
+    "methotrexate",
+    "methotrexate sodium"
+  ],
+  "methyldopa": [
+    "methyldopa"
+  ],
+  "miconazole": [
+    "miconazole",
+    "miconazole nitrate"
+  ],
+  "mirtazapine": [
+    "mirtazapine"
+  ],
+  "mometasone": [
+    "mometasone furoate"
+  ],
+  "nabumetone": [
+    "nabumetone"
+  ],
+  "naproxen": [
+    "naproxen",
+    "naproxen sodium"
+  ],
+  "naratriptan": [
+    "naratriptan"
+  ],
+  "nefazodone": [
+    "nefazodone hydrochloride"
+  ],
+  "nelfinavir": [
+    "nelfinavir"
+  ],
+  "neostigmine": [
+    "neostigmine bromide",
+    "neostigmine methylsulfate"
+  ],
+  "nevirapine": [
+    "nevirapine"
+  ],
+  "niacin": [
+    "niacinamide riboside chloride"
+  ],
+  "nifedipine": [
+    "nifedipine"
+  ],
+  "nitrofurantoin": [
+    "nitrofurantoin"
+  ],
+  "nitroglycerin": [
+    "glyceryl trinitrate"
+  ],
+  "norfloxacin": [
+    "norfloxacin"
+  ],
+  "nortriptyline": [
+    "nortriptyline hydrochloride"
+  ],
+  "ofloxacin": [
+    "alatrofloxacin",
+    "ciprofloxacin",
+    "ciprofloxacin hydrochloride",
+    "levofloxacin",
+    "levofloxacin hemihydrate",
+    "ofloxacin"
+  ],
+  "olmesartan medoxomil": [
+    "olmesartan medoxomil"
+  ],
+  "orlistat": [
+    "orlistat"
+  ],
+  "oxazepam": [
+    "oxazepam"
+  ],
+  "oxybutynin": [
+    "oxybutynin hydrochloride"
+  ],
+  "paromomycin": [
+    "paromomycin"
+  ],
+  "penicillamine": [
+    "penicillamine"
+  ],
+  "penicillin v": [
+    "phenoxymethylpenicillin",
+    "phenoxymethylpenicillin benzathine",
+    "phenoxymethylpenicillin hydrabamine",
+    "phenoxymethylpenicillin potassium"
+  ],
+  "phentermine": [
+    "phentermine",
+    "phentermine hydrochloride"
+  ],
+  "phentolamine": [
+    "phentolamine mesilate"
+  ],
+  "pioglitazone": [
+    "pioglitazone",
+    "pioglitazone hydrochloride"
+  ],
+  "piroxicam": [
+    "piroxicam"
+  ],
+  "posaconazole": [
+    "posaconazole"
+  ],
+  "potassium chloride": [
+    "glucosamine sulfate potassium chloride",
+    "potassium chloride"
+  ],
+  "pravastatin": [
+    "pravastatin sodium"
+  ],
+  "prednisolone": [
+    "prednisolone",
+    "prednisolone acetate",
+    "prednisolone sodium phosphate",
+    "prednisolone steaglate"
+  ],
+  "prilocaine": [
+    "prilocaine hydrochloride"
+  ],
+  "primidone": [
+    "primidone"
+  ],
+  "prochlorperazine": [
+    "prochlorperazine",
+    "prochlorperazine maleate",
+    "prochlorperazine mesilate"
+  ],
+  "propantheline": [
+    "propantheline bromide"
+  ],
+  "propylthiouracil": [
+    "propylthiouracil"
+  ],
+  "quinapril": [
+    "quinapril hydrochloride"
+  ],
+  "ramipril": [
+    "ramipril"
+  ],
+  "rifampin": [
+    "rifampicin"
+  ],
+  "rizatriptan": [
+    "rizatriptan"
+  ],
+  "rofecoxib": [
+    "rofecoxib"
+  ],
+  "rosiglitazone": [
+    "rosiglitazone"
+  ],
+  "rosuvastatin": [
+    "rosuvastatin calcium"
+  ],
+  "salmeterol": [
+    "salmeterol xinafoate"
+  ],
+  "scopolamine": [
+    "hyoscine",
+    "hyoscine butylbromide",
+    "hyoscine hydrobromide",
+    "hyoscine methobromide"
+  ],
+  "sertraline": [
+    "sertraline hydrochloride"
+  ],
+  "simethicone": [
+    "simethicone"
+  ],
+  "simvastatin": [
+    "simvastatin"
+  ],
+  "sitagliptin": [
+    "sitagliptin",
+    "sitagliptin phosphate",
+    "sitagliptin phosphate monohydrate"
+  ],
+  "sotalol": [
+    "sotalol hydrochloride"
+  ],
+  "stavudine": [
+    "stavudine"
+  ],
+  "sucralfate": [
+    "sucralfate"
+  ],
+  "sulfamethoxazole": [
+    "sulfamethoxazole"
+  ],
+  "sulfasalazine": [
+    "sulfasalazine"
+  ],
+  "sulfisoxazole": [
+    "sulfafurazole"
+  ],
+  "sulindac": [
+    "sulindac"
+  ],
+  "sumatriptan": [
+    "sumatriptan succinate"
+  ],
+  "tamoxifen": [
+    "tamoxifen citrate"
+  ],
+  "tamsulosin": [
+    "tamsulosin hydrochloride"
+  ],
+  "telmisartan": [
+    "telmisartan"
+  ],
+  "temazepam": [
+    "temazepam"
+  ],
+  "tenofovir": [
+    "tenofovir alafenamide fumarate",
+    "tenofovir disoproxil fumarate"
+  ],
+  "terazosin": [
+    "terazosin"
+  ],
+  "terbinafine": [
+    "terbinafine",
+    "terbinafine hydrochloride"
+  ],
+  "tetrahydrocannabinol": [
+    "tetrahydrocannabinol"
+  ],
+  "thiabendazole": [
+    "thiabendazole"
+  ],
+  "thioguanine": [
+    "tioguanine"
+  ],
+  "thiothixene": [
+    "thiothixene"
+  ],
+  "thyroxine": [
+    "levothyroxine sodium"
+  ],
+  "ticlopidine": [
+    "ticlopidine hydrochloride"
+  ],
+  "timolol": [
+    "timolol",
+    "timolol maleate"
+  ],
+  "tinidazole": [
+    "tinidazole"
+  ],
+  "tiotropium": [
+    "tiotropium",
+    "tiotropium bromide",
+    "tiotropium bromide monohydrate"
+  ],
+  "tipranavir": [
+    "tipranavir"
+  ],
+  "tolcapone": [
+    "tolcapone"
+  ],
+  "trandolapril": [
+    "trandolapril"
+  ],
+  "urea": [
+    "echinacea purpurea",
+    "hydroxyurea",
+    "urea",
+    "\u2022 68ga-psma-11 (glu-urea-lys(ahx)-hbed-cc)",
+    "\u2022 trade name not specified (urea (14c))"
+  ],
+  "valacyclovir": [
+    "valaciclovir hydrochloride",
+    "valaciclovir hydrochloride monohydrate"
+  ],
+  "valproate": [
+    "sodium valproate"
+  ],
+  "vitamin a": [
+    "vitamin a"
+  ],
+  "voriconazole": [
+    "voriconazole"
+  ],
+  "zafirlukast": [
+    "zafirlukast"
+  ],
+  "zalcitabine": [
+    "zalcitabine"
+  ],
+  "zidovudine": [
+    "zidovudine"
+  ],
+  "zolmitriptan": [
+    "zolmitriptan"
+  ]
+}

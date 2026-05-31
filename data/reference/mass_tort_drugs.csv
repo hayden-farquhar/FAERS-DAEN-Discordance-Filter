@@ -1,0 +1,36 @@
+drug_ingredient,mdl_number,mdl_filing_date,jurisdiction,event_category,citation,notes
+rofecoxib,MDL-1657,2005-02-16,E.D. La.,cardiovascular,"In re: Vioxx Products Liability Litigation, MDL No. 1657",Vioxx MDL — closed 2016 after $4.85B settlement
+valdecoxib,MDL-1699,2005-04-15,N.D. Cal.,cardiovascular_skin,"In re: Bextra and Celebrex Marketing Sales Practices and Products Liability Litigation MDL No. 1699",Bextra/Celebrex MDL
+celecoxib,MDL-1699,2005-04-15,N.D. Cal.,cardiovascular,"In re: Bextra and Celebrex Marketing Sales Practices and Products Liability Litigation MDL No. 1699",Bextra/Celebrex MDL
+rosiglitazone,MDL-1871,2007-10-16,E.D. Pa.,cardiovascular,"In re: Avandia Marketing Sales Practices and Products Liability Litigation MDL No. 1871",Avandia MDL
+pioglitazone,MDL-2299,2011-12-29,W.D. La.,bladder_cancer,"In re: Actos (Pioglitazone) Products Liability Litigation MDL No. 2299",Actos MDL — $2.4B settlement 2015
+nefazodone,MDL-1571,2003-08-19,D. Vt.,hepatic_failure,"In re: Serzone Products Liability Litigation MDL No. 1571",Serzone MDL — withdrawn 2004
+sertraline,MDL-2342,2012-04-17,E.D. Pa.,birth_defects,"In re: Zoloft (Sertraline Hydrochloride) Products Liability Litigation MDL No. 2342",Zoloft birth-defect MDL
+paroxetine,MDL-2099,2009-09-23,E.D. Pa.,birth_defects_suicidality,"In re: Paxil Products Liability Litigation (various consolidations)",Paxil MDL — multiple proceedings
+drospirenone,MDL-2100,2009-10-01,S.D. Ill.,thromboembolism,"In re: Yasmin and YAZ Marketing Sales Practices and Products Liability Litigation MDL No. 2100",Yaz/Yasmin MDL
+dabigatran,MDL-2385,2012-08-08,S.D. Ill.,bleeding,"In re: Pradaxa (Dabigatran Etexilate) Products Liability Litigation MDL No. 2385",Pradaxa MDL
+rivaroxaban,MDL-2592,2014-12-12,E.D. La.,bleeding,"In re: Xarelto (Rivaroxaban) Products Liability Litigation MDL No. 2592",Xarelto MDL
+canagliflozin,MDL-2750,2016-12-07,D.N.J.,amputation_dka,"In re: Invokana (Canagliflozin) Products Liability Litigation MDL No. 2750",Invokana MDL
+saxagliptin,MDL-2809,2018-02-02,E.D. Ky.,heart_failure,"In re: Onglyza (Saxagliptin) and Kombiglyze XR (Saxagliptin and Metformin) Products Liability Litigation MDL No. 2809",Onglyza MDL
+ranitidine,MDL-2924,2020-02-06,S.D. Fla.,carcinogen,"In re: Zantac (Ranitidine) Products Liability Litigation MDL No. 2924",Zantac/NDMA MDL
+risperidone,MDL-2934,2020-07-29,S.D. Tex.,gynecomastia,"In re: Risperdal (Risperidone) Products Liability Litigation (various consolidations)",Risperdal MDL
+finasteride,MDL-2331,2012-04-17,E.D.N.Y.,sexual_dysfunction,"In re: Propecia (Finasteride) Products Liability Litigation MDL No. 2331",Propecia MDL
+topiramate,MDL-2418,2013-03-21,E.D. Pa.,birth_defects,"In re: Topamax (Topiramate) Birth Defects Products Liability Litigation MDL No. 2418",Topamax MDL
+valproate,MDL-2391,2012-10-04,M.D. Fla.,birth_defects,"In re: Depakote (Valproate) Products Liability Litigation (various consolidations)",Depakote MDL
+duloxetine,MDL-2452,2013-08-15,S.D. Ind.,withdrawal_syndrome,"In re: Cymbalta (Duloxetine) Products Liability Litigation MDL No. 2452",Cymbalta MDL
+metoclopramide,MDL-2049,2009-03-12,D. Md.,tardive_dyskinesia,"In re: Reglan/Metoclopramide Products Liability Litigation MDL No. 2049",Reglan MDL
+quinine,MDL-1825,2007-02-15,E.D. La.,thrombocytopenia,"In re: Qualaquin (quinine sulfate) Products Liability Litigation",Qualaquin MDL
+fenfluramine,MDL-1203,1997-12-09,E.D. Pa.,valvular_disease,"In re: Diet Drugs (Phentermine, Fenfluramine, Dexfenfluramine) Products Liability Litigation MDL No. 1203","Pre-2004 limit of our window; Pondimin/Redux withdrawn 1997"
+phenylpropanolamine,MDL-1407,2001-10-04,W.D. Wash.,stroke,"In re: Phenylpropanolamine (PPA) Products Liability Litigation MDL No. 1407",PPA MDL
+cerivastatin,MDL-1431,2001-12-18,D. Md.,rhabdomyolysis,"In re: Baycol Products Liability Litigation MDL No. 1431",Baycol MDL
+mirtazapine,MDL-1726,2005-09-19,D. Minn.,various,"In re: Guidant Corp. Implantable Defibrillators Products Liability Litigation (related)",Pharma-relevant section of broader MDL
+gadolinium,MDL-1909,2008-02-27,N.D. Ohio,nephrogenic_systemic_fibrosis,"In re: Gadolinium Contrast Dyes Products Liability Litigation MDL No. 1909",Gadolinium MDL
+levofloxacin,MDL-1943,2008-06-13,D. Minn.,tendon_rupture,"In re: Levaquin Products Liability Litigation MDL No. 1943",Levaquin MDL
+ciprofloxacin,MDL-1943,2008-06-13,D. Minn.,tendon_rupture,"Companion to Levaquin MDL — Cipro consolidations",Class fluoroquinolone tort
+trasylol,MDL-1928,2008-04-02,S.D. Fla.,renal_failure,"In re: Trasylol Products Liability Litigation MDL No. 1928",Trasylol (aprotinin) MDL
+darvocet,MDL-2226,2011-08-15,E.D. Ky.,cardiotoxicity,"In re: Darvocet, Darvon and Propoxyphene Products Liability Litigation MDL No. 2226",Propoxyphene MDL
+chantix,MDL-2092,2009-10-13,N.D. Ala.,neuropsychiatric,"In re: Chantix (Varenicline) Products Liability Litigation MDL No. 2092",Chantix MDL
+varenicline,MDL-2092,2009-10-13,N.D. Ala.,neuropsychiatric,"In re: Chantix (Varenicline) Products Liability Litigation MDL No. 2092",Same as Chantix entry
+zoledronic_acid,MDL-2229,2011-09-15,M.D. Tenn.,osteonecrosis_jaw,"In re: Aredia/Zometa Products Liability Litigation MDL No. 1760",Aredia/Zometa MDL
+pamidronate,MDL-1760,2006-04-18,M.D. Tenn.,osteonecrosis_jaw,"In re: Aredia/Zometa Products Liability Litigation MDL No. 1760",Aredia MDL
+alendronate,MDL-2243,2011-11-29,D.N.J.,atypical_femur_fracture,"In re: Fosamax (Alendronate Sodium) Products Liability Litigation MDL No. 2243",Fosamax MDL

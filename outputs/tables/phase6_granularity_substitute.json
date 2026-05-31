@@ -1,0 +1,72 @@
+{
+  "deviation_note": "Substitute for the Section 10.7 HLT arm: licensed MedDRA v27.1 PT->HLT hierarchy not deposited; Arm-1 events are supra-PT baskets making literal HLT roll-up a near-no-op. This exhibit instead makes events FINER (single index PT = max-FAERS-count PT per basket) and re-runs H2 + H1 with the power model recomputed on the finer marginals.",
+  "index_pt_per_outcome": {
+    "OMOP Acute Liver Failure 1": "hepatic enzyme increased",
+    "OMOP Acute Renal Failure 1": "acute kidney injury",
+    "OMOP Acute myocardial Infarction  1": "myocardial infarction",
+    "HOI Upper GI #3": "gastrointestinal haemorrhage",
+    "OMOP Aplastic Anemia 1": "pancytopenia",
+    "Anaphylaxis #1": "anaphylactic reaction",
+    "Stevens-Johnson Syndrome #1": "stevens-johnson syndrome",
+    "Leukopenia Including Neutropenia and Agranulocytosis": "neutropenia",
+    "Rhabdomyolysis #1": "rhabdomyolysis",
+    "Cardiac Valve Fibrosis #1": "mitral valve incompetence"
+  },
+  "n_daen_powered_indexpt": 13,
+  "n_daen_powered_primary": 52,
+  "family1_indexpt": {
+    "n_total_pairs": 492,
+    "n_faers_powered_universe": 260,
+    "n_daen_powered_universe": 13,
+    "n_faers_positive_daen_powered": 6,
+    "h2_non_replication_rate": 0.3333333333333333,
+    "h2_ci_low": 0.0,
+    "h2_ci_high": 0.5,
+    "h2_underpowered_discordant_count": 240,
+    "pa_plus": 0.7272727272727273,
+    "pa_plus_ci_low": 0.6666666666666666,
+    "pa_plus_ci_high": 1.0,
+    "pa_plus_power_conditioned": 0.7272727272727273,
+    "pa_plus_pc_ci_low": 0.6666666666666666,
+    "pa_plus_pc_ci_high": 1.0,
+    "cohen_kappa": 0.5301204819277109,
+    "kappa_caveat": "Cohen's kappa = 0.530. Marginal balance is reasonable (46.2% / 38.5%); kappa interpretable but PA+ (= 0.727) remains the pre-registered primary concordance statistic.",
+    "cross_db_2x2": {
+      "faers_pos_daen_pos": 4,
+      "faers_pos_daen_neg": 2,
+      "faers_neg_daen_pos": 1,
+      "faers_neg_daen_neg": 6
+    },
+    "notes": [
+      "H2 universe (FAERS-positive AND daen_powered): n=6",
+      "Underpowered-discordant (FAERS-positive AND NOT daen_powered): n=240",
+      "daen_powered universe (for concordance + kappa): n=13",
+      "Mutually-powered universe (daen_powered AND faers_powered): n=13"
+    ]
+  },
+  "h1_indexpt": {
+    "stratum_size": 6,
+    "n_faers_only": 2,
+    "n_concordant_positive": 4,
+    "n_known_neg_faers_only": 0,
+    "n_known_neg_concordant_pos": 0,
+    "n_events_in_stratum": 3,
+    "n_drugs_in_stratum": 5,
+    "or_fixed_effect": 0.04143981397199349,
+    "or_fe_ci_low": 0.0,
+    "or_fe_ci_high": NaN,
+    "or_fe_pvalue": NaN,
+    "or_cluster_robust": NaN,
+    "or_cr_ci_low": NaN,
+    "or_cr_ci_high": NaN,
+    "or_cr_pvalue": NaN,
+    "realised_mde_or": 448.50212689835604,
+    "decision": "EXPLORATORY_DOWNGRADE",
+    "fragility_flag": "N/A",
+    "notes": [
+      "Separation: known-neg counts in (faers_only, concordant_positive) = (0, 0) of (2, 4). Standard mixed-effects logistic OR is undefined or infinite.",
+      "Logit fit failed: math range error",
+      "Realised MDE = 448.50 > 3.0 \u21d2 H1 downgraded to exploratory per Section 6.6; Family 2 pivot (Section 5) fires."
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "signal_rule": "IC025 > 0 AND a >= 3 (BCPNN, Jeffreys 0.5 prior, delta-method CI)",
+  "power_model": "held fixed at primary daen_powered = (daen_mde <= 1.5); ROR-anchored, G2-locked",
+  "flip_diagnostic": {
+    "faers_signal_flips_vs_ror": 2,
+    "daen_signal_flips_vs_ror": 7,
+    "n_pairs_total": 492,
+    "cross_db_class_flips_vs_primary": 9,
+    "n_daen_powered": 52
+  },
+  "family1": {
+    "n_total_pairs": 492,
+    "n_faers_powered_universe": 331,
+    "n_daen_powered_universe": 52,
+    "n_faers_positive_daen_powered": 44,
+    "h2_non_replication_rate": 0.13636363636363635,
+    "h2_ci_low": 0.057122736418511066,
+    "h2_ci_high": 0.3181818181818182,
+    "h2_underpowered_discordant_count": 250,
+    "pa_plus": 0.9156626506024096,
+    "pa_plus_ci_low": 0.8108108108108109,
+    "pa_plus_ci_high": 0.9642857142857143,
+    "pa_plus_power_conditioned": 0.9156626506024096,
+    "pa_plus_pc_ci_low": 0.8108108108108109,
+    "pa_plus_pc_ci_high": 0.9655172413793104,
+    "cohen_kappa": 0.5882352941176472,
+    "kappa_caveat": "Cohen's kappa = 0.588. Marginal balance is reasonable (84.6% / 75.0%); kappa interpretable but PA+ (= 0.916) remains the pre-registered primary concordance statistic.",
+    "cross_db_2x2": {
+      "faers_pos_daen_pos": 38,
+      "faers_pos_daen_neg": 6,
+      "faers_neg_daen_pos": 1,
+      "faers_neg_daen_neg": 7
+    },
+    "notes": [
+      "H2 universe (FAERS-positive AND daen_powered): n=44",
+      "Underpowered-discordant (FAERS-positive AND NOT daen_powered): n=250",
+      "daen_powered universe (for concordance + kappa): n=52",
+      "Mutually-powered universe (daen_powered AND faers_powered): n=52"
+    ]
+  },
+  "h1": {
+    "stratum_size": 44,
+    "n_faers_only": 6,
+    "n_concordant_positive": 38,
+    "n_known_neg_faers_only": 0,
+    "n_known_neg_concordant_pos": 5,
+    "n_events_in_stratum": 7,
+    "n_drugs_in_stratum": 28,
+    "or_fixed_effect": 7.531815104839694e-06,
+    "or_fe_ci_low": 0.0,
+    "or_fe_ci_high": NaN,
+    "or_fe_pvalue": NaN,
+    "or_cluster_robust": NaN,
+    "or_cr_ci_low": NaN,
+    "or_cr_ci_high": NaN,
+    "or_cr_pvalue": NaN,
+    "realised_mde_or": 76.51266389034517,
+    "decision": "EXPLORATORY_DOWNGRADE",
+    "fragility_flag": "N/A",
+    "notes": [
+      "Separation: known-neg counts in (faers_only, concordant_positive) = (0, 5) of (6, 38). Standard mixed-effects logistic OR is undefined or infinite.",
+      "Logit fit failed: math range error",
+      "Realised MDE = 76.51 > 3.0 \u21d2 H1 downgraded to exploratory per Section 6.6; Family 2 pivot (Section 5) fires."
+    ]
+  },
+  "h3": {
+    "stratum_size": 44,
+    "sensitivity": 0.0,
+    "specificity": 0.8461538461538461,
+    "ppv": 0.0,
+    "npv": 0.868421052631579,
+    "lr_plus": NaN,
+    "lr_plus_ci_low": NaN,
+    "lr_plus_ci_high": NaN,
+    "lr_plus_pvalue_one_sided": NaN,
+    "realised_mde_lrplus": Infinity,
+    "decision": "DEGENERATE",
+    "notes": [
+      "LR+ degenerate: sensitivity=0.0, specificity=0.8461538461538461, tp/fp/fn/tn=0/6/5/33. One of the operating-characteristic boundaries was hit."
+    ]
+  },
+  "mantel_haenszel": {
+    "n_pairs": 44,
+    "n_strata_total": 7,
+    "n_strata_informative": 3,
+    "mh_or": NaN,
+    "mh_ci_low": NaN,
+    "mh_ci_high": NaN,
+    "p_breslow_day": NaN,
+    "notes": [
+      "MH OR undefined: no informative stratum had both rows AND both columns nonzero. This is the expected pattern under severe degeneracy in the H1 stratum."
+    ]
+  }
+}

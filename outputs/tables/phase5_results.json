@@ -1,0 +1,70 @@
+{
+  "phase": 5,
+  "produced_at": "2026-05-30 23:21:30",
+  "arm2_n_pairs": 4300,
+  "arm2_daen_powered_n": 4300,
+  "family_3": {
+    "tests": [
+      {
+        "name": "H5a",
+        "description": "Consumer-share lift \u2265 10 pp vs ingredient baseline",
+        "n_faers_only": 3314,
+        "n_concordant_positive": 986,
+        "p_faers_only": 0.21424260712130355,
+        "p_concordant_positive": 0.14807302231237324,
+        "diff_pp": 6.6169584808930315,
+        "ci_low_pp": 3.897148494746741,
+        "ci_high_pp": 9.14106228425471,
+        "pvalue": 4.920839759892104e-06,
+        "notes": []
+      },
+      {
+        "name": "H5b",
+        "description": "Lawyer-share lift \u2265 5 pp vs ingredient baseline",
+        "n_faers_only": 3314,
+        "n_concordant_positive": 986,
+        "p_faers_only": 0.009957754978877489,
+        "p_concordant_positive": 0.019269776876267748,
+        "diff_pp": -0.9312021897390259,
+        "ci_low_pp": -2.032017448917578,
+        "ci_high_pp": -0.13404929341338073,
+        "pvalue": 0.018846890474168543,
+        "notes": []
+      },
+      {
+        "name": "H5c",
+        "description": "Bai-Perron break within \u00b12 quarters of FDA alert (\u226516 quarters required)",
+        "n_faers_only": 3246,
+        "n_concordant_positive": 944,
+        "p_faers_only": 0.0,
+        "p_concordant_positive": 0.0,
+        "diff_pp": 0.0,
+        "ci_low_pp": -0.405284954033734,
+        "ci_high_pp": 0.11820449918464997,
+        "pvalue": NaN,
+        "notes": []
+      },
+      {
+        "name": "H5d",
+        "description": "Drug on US JPML mass-tort MDL registry",
+        "n_faers_only": 3314,
+        "n_concordant_positive": 986,
+        "p_faers_only": 0.03168376584188292,
+        "p_concordant_positive": 0.015212981744421906,
+        "diff_pp": 1.6470784097461013,
+        "ci_low_pp": 0.5317631184512953,
+        "ci_high_pp": 2.5317743765262164,
+        "pvalue": 0.00583936265965046,
+        "notes": []
+      }
+    ],
+    "holm": {
+      "H5a": "REJECT_AT_HOLM",
+      "H5d": "REJECT_AT_HOLM",
+      "H5b": "REJECT_AT_HOLM",
+      "H5c": "FAIL_TO_REJECT"
+    },
+    "family_wise_alpha": 0.05,
+    "k": 4
+  }
+}

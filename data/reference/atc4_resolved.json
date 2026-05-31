@@ -1,0 +1,3614 @@
+{
+  "classes": {
+    "A01AB": [
+      "amphotericin B",
+      "chlorhexidine",
+      "chlortetracycline",
+      "clotrimazole",
+      "domiphen",
+      "doxycycline",
+      "hexetidine",
+      "hydrogen peroxide",
+      "metronidazole",
+      "miconazole",
+      "minocycline",
+      "natamycin",
+      "neomycin",
+      "octenidine",
+      "oxyquinoline",
+      "oxytetracycline",
+      "polynoxylin",
+      "sodium perborate",
+      "tetracycline",
+      "tibezonium iodide"
+    ],
+    "A01AC": [
+      "dexamethasone",
+      "hydrocortisone",
+      "prednisolone",
+      "triamcinolone"
+    ],
+    "A01AD": [
+      "adrenalone",
+      "amlexanox",
+      "aspirin",
+      "becaplermin",
+      "benzydamine",
+      "epinephrine"
+    ],
+    "A02BC": [
+      "dexlansoprazole",
+      "esomeprazole",
+      "lansoprazole",
+      "omeprazole",
+      "pantoprazole",
+      "rabeprazole",
+      "vonoprazan"
+    ],
+    "A02BX": [
+      "acetoxolone",
+      "alginic acid",
+      "bismuth subcitrate",
+      "bismuth subnitrate",
+      "carbenoxolone",
+      "geranylgeranylacetone",
+      "pirenzepine",
+      "proglumide",
+      "sucralfate"
+    ],
+    "A03AA": [
+      "camylofine",
+      "dicyclomine",
+      "difemerine",
+      "dihexyverine",
+      "mebeverine",
+      "oxyphencyclimine",
+      "piperidolate",
+      "trimebutine"
+    ],
+    "A03AB": [
+      "diphemanil",
+      "hexocyclium",
+      "isopropamide",
+      "mepenzolate",
+      "methantheline",
+      "oxyphenonium",
+      "pipenzolate",
+      "poldine",
+      "propantheline",
+      "tridihexethyl"
+    ],
+    "A03BA": [
+      "atropine",
+      "hyoscyamine"
+    ],
+    "A04AA": [
+      "dolasetron",
+      "granisetron",
+      "ondansetron",
+      "palonosetron",
+      "tropisetron"
+    ],
+    "A04AD": [
+      "aprepitant",
+      "cerium oxalate",
+      "chlorobutanol",
+      "dronabinol",
+      "metopimazine",
+      "nabilone",
+      "rolapitant",
+      "scopolamine"
+    ],
+    "A06AD": [
+      "lactitol",
+      "lactulose",
+      "magnesium carbonate",
+      "magnesium citrate",
+      "magnesium oxide",
+      "magnesium peroxide",
+      "magnesium sulfate",
+      "mannitol",
+      "pentaerythritol",
+      "polyethylene glycols",
+      "sodium phosphate",
+      "sodium sulfate",
+      "sodium tartrate",
+      "sorbitol"
+    ],
+    "A07AA": [
+      "amphotericin B",
+      "colistin",
+      "fidaxomicin",
+      "kanamycin",
+      "natamycin",
+      "neomycin",
+      "nystatin",
+      "paromomycin",
+      "polymyxin B",
+      "rifamycin SV",
+      "rifaximin",
+      "streptomycin",
+      "vancomycin"
+    ],
+    "A07AC": [
+      "miconazole"
+    ],
+    "A07EA": [
+      "beclomethasone",
+      "betamethasone",
+      "budesonide",
+      "hydrocortisone",
+      "prednisolone",
+      "prednisone",
+      "tixocortol"
+    ],
+    "A07EC": [
+      "balsalazide",
+      "mesalamine",
+      "olsalazine",
+      "sulfasalazine"
+    ],
+    "A08AA": [
+      "cathine",
+      "clobenzorex",
+      "dexfenfluramine",
+      "diethylpropion",
+      "fenfluramine",
+      "lorcaserin",
+      "mazindol",
+      "mefenorex",
+      "phentermine",
+      "setmelanotide",
+      "sibutramine"
+    ],
+    "A08AB": [
+      "orlistat"
+    ],
+    "A09AA": [
+      "amylase",
+      "lactase",
+      "pepsin A"
+    ],
+    "A10AB": [
+      "insulin aspart, human",
+      "insulin glulisine, human",
+      "insulin lispro",
+      "insulin, regular, human",
+      "insulin, regular, pork"
+    ],
+    "A10AC": [
+      "insulin lispro",
+      "insulin, regular, human",
+      "insulin, regular, pork"
+    ],
+    "A10AD": [
+      "insulin aspart, human",
+      "insulin lispro",
+      "insulin, regular, human",
+      "insulin, regular, pork"
+    ],
+    "A10AE": [
+      "insulin degludec",
+      "insulin detemir",
+      "insulin glargine",
+      "insulin icodec",
+      "insulin, regular, human",
+      "insulin, regular, pork"
+    ],
+    "A10AF": [
+      "insulin, regular, human"
+    ],
+    "A10BB": [
+      "acetohexamide",
+      "carbutamide",
+      "chlorpropamide",
+      "glibornuride",
+      "gliclazide",
+      "glimepiride",
+      "glipizide",
+      "gliquidone",
+      "glyburide",
+      "tolazamide",
+      "tolbutamide"
+    ],
+    "A10BF": [
+      "acarbose",
+      "miglitol"
+    ],
+    "A10BG": [
+      "pioglitazone",
+      "rosiglitazone",
+      "troglitazone"
+    ],
+    "A10BH": [
+      "alogliptin",
+      "linagliptin",
+      "saxagliptin",
+      "sitagliptin",
+      "vildagliptin"
+    ],
+    "A11CA": [
+      "beta carotene",
+      "vitamin A"
+    ],
+    "A12BA": [
+      "potassium bicarbonate",
+      "potassium chloride",
+      "potassium citrate",
+      "potassium gluconate"
+    ],
+    "B01AC": [
+      "abciximab",
+      "aloxiprin",
+      "aspirin",
+      "cangrelor",
+      "cilostazol",
+      "clopidogrel",
+      "dipyridamole",
+      "epoprostenol",
+      "eptifibatide",
+      "iloprost",
+      "indobufen",
+      "prasugrel",
+      "selexipag",
+      "ticagrelor",
+      "ticlopidine",
+      "tirofiban",
+      "treprostinil",
+      "triflusal",
+      "vorapaxar"
+    ],
+    "B02BD": [
+      "anti-inhibitor coagulant complex",
+      "etranacogene dezaparvovec",
+      "factor IX",
+      "factor VII",
+      "factor VIII",
+      "factor VIIa",
+      "factor X",
+      "factor XIII",
+      "fidanacogene elaparvovec",
+      "thrombin",
+      "valoctocogene roxaparvovec",
+      "von Willebrand factor"
+    ],
+    "B03AA": [
+      "ferrous ascorbate",
+      "ferrous aspartate",
+      "ferrous carbonate",
+      "ferrous chloride",
+      "ferrous fumarate",
+      "ferrous gluconate",
+      "ferrous glycine sulfate",
+      "ferrous succinate",
+      "ferrous sulfate"
+    ],
+    "B03XA": [
+      "daprodustat",
+      "darbepoetin alfa",
+      "luspatercept",
+      "methoxy polyethylene glycol-epoetin beta",
+      "molidustat",
+      "peginesatide",
+      "vadadustat"
+    ],
+    "B05BC": [
+      "mannitol",
+      "urea"
+    ],
+    "B05XA": [
+      "ammonium chloride",
+      "calcium chloride",
+      "calcium gluconate",
+      "hydrochloric acid",
+      "magnesium chloride",
+      "magnesium phosphate",
+      "magnesium sulfate",
+      "potassium acetate",
+      "potassium chloride",
+      "potassium lactate",
+      "sodium acetate",
+      "sodium bicarbonate",
+      "sodium chloride",
+      "sodium phosphate",
+      "zinc chloride",
+      "zinc sulfate"
+    ],
+    "C01BC": [
+      "encainide",
+      "flecainide",
+      "propafenone"
+    ],
+    "C01DA": [
+      "erythrityl tetranitrate",
+      "isosorbide dinitrate",
+      "nitroglycerin"
+    ],
+    "C01EB": [
+      "acoramidis",
+      "adenosine",
+      "fosfructose",
+      "ibuprofen",
+      "indomethacin",
+      "ivabradine",
+      "mavacamten",
+      "ranolazine",
+      "regadenoson",
+      "trimetazidine",
+      "ubidecarenone"
+    ],
+    "C02AB": [
+      "methyldopa"
+    ],
+    "C02AC": [
+      "clonidine",
+      "guanfacine",
+      "moxonidine",
+      "rilmenidine"
+    ],
+    "C02CA": [
+      "doxazosin",
+      "indoramin",
+      "prazosin",
+      "urapidil"
+    ],
+    "C02KX": [
+      "ambrisentan",
+      "bosentan",
+      "macitentan",
+      "riociguat",
+      "sotatercept"
+    ],
+    "C03AA": [
+      "bendroflumethiazide",
+      "chlorothiazide",
+      "cyclopenthiazide",
+      "cyclothiazide",
+      "hydrochlorothiazide",
+      "hydroflumethiazide",
+      "methyclothiazide",
+      "polythiazide",
+      "trichlormethiazide"
+    ],
+    "C03CA": [
+      "bumetanide",
+      "furosemide",
+      "piretanide",
+      "torsemide"
+    ],
+    "C04AB": [
+      "phentolamine",
+      "tolazoline"
+    ],
+    "C04AC": [
+      "niacin",
+      "nicotinyl alcohol"
+    ],
+    "C05AA": [
+      "betamethasone",
+      "dexamethasone",
+      "fluocinonide",
+      "fluocortolone",
+      "fluorometholone",
+      "hydrocortisone",
+      "prednisolone",
+      "triamcinolone"
+    ],
+    "C05AD": [
+      "benzocaine",
+      "dibucaine",
+      "lidocaine",
+      "pramoxine",
+      "procaine",
+      "tetracaine"
+    ],
+    "C05AE": [
+      "diltiazem",
+      "isosorbide dinitrate",
+      "nitroglycerin"
+    ],
+    "C07AA": [
+      "alprenolol",
+      "bopindolol",
+      "bupranolol",
+      "carteolol",
+      "mepindolol",
+      "nadolol",
+      "oxprenolol",
+      "penbutolol",
+      "pindolol",
+      "propranolol",
+      "sotalol",
+      "tertatolol",
+      "timolol"
+    ],
+    "C07AB": [
+      "acebutolol",
+      "atenolol",
+      "betaxolol",
+      "bisoprolol",
+      "celiprolol",
+      "esmolol",
+      "landiolol",
+      "metoprolol",
+      "nebivolol",
+      "practolol",
+      "talinolol"
+    ],
+    "C08CA": [
+      "amlodipine",
+      "clevidipine",
+      "felodipine",
+      "isradipine",
+      "lacidipine",
+      "lercanidipine",
+      "levamlodipine",
+      "manidipine",
+      "mepirodipine",
+      "nicardipine",
+      "nifedipine",
+      "nilvadipine",
+      "nimodipine",
+      "nisoldipine",
+      "nitrendipine"
+    ],
+    "C08DB": [
+      "diltiazem"
+    ],
+    "C09AA": [
+      "benazepril",
+      "captopril",
+      "cilazapril",
+      "enalapril",
+      "fosinopril",
+      "imidapril",
+      "lisinopril",
+      "moexipril",
+      "perindopril",
+      "quinapril",
+      "ramipril",
+      "spirapril",
+      "trandolapril",
+      "zofenopril"
+    ],
+    "C09CA": [
+      "candesartan",
+      "eprosartan",
+      "irbesartan",
+      "losartan",
+      "telmisartan",
+      "valsartan"
+    ],
+    "C10AA": [
+      "atorvastatin",
+      "cerivastatin",
+      "fluvastatin",
+      "lovastatin",
+      "pitavastatin",
+      "pravastatin",
+      "rosuvastatin",
+      "simvastatin"
+    ],
+    "C10AB": [
+      "bezafibrate",
+      "choline fenofibrate",
+      "ciprofibrate",
+      "clofibrate",
+      "etofibrate",
+      "fenofibrate",
+      "gemfibrozil"
+    ],
+    "C10AD": [
+      "acipimox",
+      "niacin",
+      "nicofuranose",
+      "nicotinyl alcohol"
+    ],
+    "D01AA": [
+      "griseofulvin",
+      "natamycin",
+      "nystatin"
+    ],
+    "D01AC": [
+      "bifonazole",
+      "clotrimazole",
+      "econazole",
+      "efinaconazole",
+      "fenticonazole",
+      "fluconazole",
+      "flutrimazole",
+      "isoconazole",
+      "ketoconazole",
+      "luliconazole",
+      "miconazole",
+      "omoconazole",
+      "oxiconazole",
+      "sertaconazole",
+      "sulconazole",
+      "thiabendazole",
+      "tioconazole"
+    ],
+    "D01AE": [
+      "amorolfine",
+      "butenafine",
+      "chlorphenesin",
+      "ciclopirox",
+      "flucytosine",
+      "haloprogin",
+      "naftifine",
+      "polynoxylin",
+      "salicylic acid",
+      "selenium sulfide",
+      "tavaborole",
+      "terbinafine",
+      "tolciclate",
+      "tolnaftate"
+    ],
+    "D01BA": [
+      "griseofulvin",
+      "terbinafine"
+    ],
+    "D02AE": [
+      "urea"
+    ],
+    "D04AB": [
+      "benoxinate",
+      "benzocaine",
+      "dibucaine",
+      "lidocaine",
+      "pramoxine",
+      "tetracaine"
+    ],
+    "D06BB": [
+      "acyclovir",
+      "docosanol",
+      "edoxudine",
+      "idoxuridine",
+      "imiquimod",
+      "inosine",
+      "lysozyme",
+      "penciclovir",
+      "podofilox",
+      "sinecatechins",
+      "tromantadine"
+    ],
+    "D07AA": [
+      "hydrocortisone",
+      "methylprednisolone",
+      "prednisolone"
+    ],
+    "D07AC": [
+      "amcinonide",
+      "beclomethasone",
+      "betamethasone",
+      "budesonide",
+      "desoximetasone",
+      "diflorasone",
+      "diflucortolone",
+      "difluprednate",
+      "fluclorolone",
+      "fluocinonide",
+      "fluocortolone",
+      "flurandrenolide",
+      "fluticasone",
+      "halobetasol",
+      "halometasone",
+      "mometasone",
+      "prednicarbate"
+    ],
+    "D07XA": [
+      "hydrocortisone",
+      "prednisolone"
+    ],
+    "D07XC": [
+      "betamethasone",
+      "desoximetasone",
+      "diflucortolone",
+      "fluocortolone",
+      "mometasone"
+    ],
+    "D10AD": [
+      "adapalene",
+      "isotretinoin",
+      "tretinoin",
+      "trifarotene",
+      "vitamin A"
+    ],
+    "D10AF": [
+      "chloramphenicol",
+      "clindamycin",
+      "erythromycin",
+      "meclocycline",
+      "minocycline",
+      "sulfacetamide"
+    ],
+    "D11AX": [
+      "brimonidine",
+      "caffeine",
+      "calcium gluconate",
+      "diclofenac",
+      "eflornithine",
+      "finasteride",
+      "hydrogen peroxide",
+      "hydroquinone",
+      "ivermectin",
+      "lithium succinate",
+      "magnesium sulfate",
+      "mequinol",
+      "minoxidil",
+      "monobenzone",
+      "oxaceprol",
+      "oxymetazoline",
+      "potassium aminobenzoate",
+      "tiratricol",
+      "zinc pyrithione"
+    ],
+    "G01AA": [
+      "amphotericin B",
+      "chloramphenicol",
+      "clindamycin",
+      "natamycin",
+      "nystatin",
+      "oxytetracycline"
+    ],
+    "G01AF": [
+      "butoconazole",
+      "clotrimazole",
+      "econazole",
+      "fenticonazole",
+      "flutrimazole",
+      "isoconazole",
+      "ketoconazole",
+      "metronidazole",
+      "miconazole",
+      "omoconazole",
+      "ornidazole",
+      "oxiconazole",
+      "sertaconazole",
+      "tinidazole",
+      "tioconazole"
+    ],
+    "G02CB": [
+      "bromocriptine",
+      "cabergoline",
+      "lisuride",
+      "metergoline",
+      "quinagolide"
+    ],
+    "G02CC": [
+      "benzydamine",
+      "ibuprofen",
+      "naproxen"
+    ],
+    "G03AC": [
+      "desogestrel",
+      "drospirenone",
+      "etonogestrel",
+      "levonorgestrel",
+      "lynestrenol",
+      "medroxyprogesterone",
+      "megestrol",
+      "norethindrone",
+      "norgestrienone"
+    ],
+    "G03AD": [
+      "levonorgestrel",
+      "ulipristal"
+    ],
+    "G03CA": [
+      "chlorotrianisene",
+      "estetrol",
+      "estradiol",
+      "estriol",
+      "estrogens, conjugated (USP)",
+      "estrone",
+      "ethinyl estradiol",
+      "promestriene"
+    ],
+    "G04BD": [
+      "darifenacin",
+      "emepronium",
+      "fesoterodine",
+      "flavoxate",
+      "mirabegron",
+      "oxybutynin",
+      "propiverine",
+      "solifenacin",
+      "terodiline",
+      "tolterodine",
+      "trospium",
+      "vibegron"
+    ],
+    "G04CA": [
+      "alfuzosin",
+      "silodosin",
+      "tamsulosin",
+      "terazosin"
+    ],
+    "H01AA": [
+      "corticotropin",
+      "cosyntropin"
+    ],
+    "H02AB": [
+      "betamethasone",
+      "cloprednol",
+      "cortisone",
+      "cortivazol",
+      "deflazacort",
+      "dexamethasone",
+      "fluocortolone",
+      "hydrocortisone",
+      "meprednisone",
+      "methylprednisolone",
+      "paramethasone",
+      "prednisolone",
+      "prednisone",
+      "prednylidene",
+      "rimexolone",
+      "triamcinolone",
+      "vamorolone"
+    ],
+    "H02CA": [
+      "ketoconazole",
+      "osilodrostat",
+      "trilostane"
+    ],
+    "H03BA": [
+      "benzylthiouracil",
+      "propylthiouracil"
+    ],
+    "H03BB": [
+      "carbimazole",
+      "methimazole"
+    ],
+    "J01CA": [
+      "amdinocillin",
+      "amdinocillin pivoxil",
+      "amoxicillin",
+      "ampicillin",
+      "azlocillin",
+      "bacampicillin",
+      "carbenicillin",
+      "hetacillin",
+      "methampicillin",
+      "mezlocillin",
+      "piperacillin",
+      "pivampicillin",
+      "sulbenicillin",
+      "talampicillin",
+      "temocillin",
+      "ticarcillin"
+    ],
+    "J01CE": [
+      "azidocillin",
+      "penicillin G",
+      "penicillin V",
+      "phenethicillin",
+      "propicillin"
+    ],
+    "J01EA": [
+      "brodimoprim",
+      "trimethoprim"
+    ],
+    "J01EB": [
+      "sulfamethazine",
+      "sulfamethizole",
+      "sulfanilamide",
+      "sulfapyridine",
+      "sulfathiazole",
+      "sulfisomidine",
+      "sulfisoxazole"
+    ],
+    "J01EC": [
+      "sulfadiazine",
+      "sulfamethoxazole",
+      "sulfamoxole"
+    ],
+    "J01FA": [
+      "azithromycin",
+      "clarithromycin",
+      "dirithromycin",
+      "erythromycin",
+      "josamycin",
+      "midecamycin",
+      "miocamycin",
+      "oleandomycin",
+      "roxithromycin",
+      "spiramycin",
+      "telithromycin",
+      "troleandomycin"
+    ],
+    "J01FF": [
+      "clindamycin",
+      "lincomycin"
+    ],
+    "J01MA": [
+      "ciprofloxacin",
+      "delafloxacin",
+      "enoxacin",
+      "fleroxacin",
+      "gatifloxacin",
+      "gemifloxacin",
+      "grepafloxacin",
+      "levofloxacin",
+      "lomefloxacin",
+      "moxifloxacin",
+      "norfloxacin",
+      "ofloxacin",
+      "pefloxacin",
+      "sparfloxacin",
+      "temafloxacin",
+      "trovafloxacin"
+    ],
+    "J01XD": [
+      "metronidazole",
+      "ornidazole",
+      "tinidazole"
+    ],
+    "J01XE": [
+      "nitrofurantoin"
+    ],
+    "J01XX": [
+      "bacitracin",
+      "clofoctol",
+      "daptomycin",
+      "fosfomycin",
+      "gepotidacin",
+      "lefamulin",
+      "linezolid",
+      "mandelic acid",
+      "methenamine",
+      "nitroxoline",
+      "spectinomycin",
+      "tedizolid",
+      "xibornol"
+    ],
+    "J02AB": [
+      "ketoconazole",
+      "miconazole"
+    ],
+    "J02AC": [
+      "fluconazole",
+      "isavuconazole",
+      "itraconazole",
+      "oteseconazole",
+      "posaconazole",
+      "voriconazole"
+    ],
+    "J02AX": [
+      "anidulafungin",
+      "caspofungin",
+      "flucytosine",
+      "ibrexafungerp",
+      "micafungin"
+    ],
+    "J04AB": [
+      "capreomycin",
+      "cycloserine",
+      "rifabutin",
+      "rifampin",
+      "rifamycin SV",
+      "rifapentine"
+    ],
+    "J04AC": [
+      "isoniazid"
+    ],
+    "J05AB": [
+      "acyclovir",
+      "brincidofovir",
+      "brivudine",
+      "cidofovir",
+      "famciclovir",
+      "ganciclovir",
+      "idoxuridine",
+      "molnupiravir",
+      "penciclovir",
+      "remdesivir",
+      "valacyclovir",
+      "valganciclovir",
+      "vidarabine"
+    ],
+    "J05AE": [
+      "amprenavir",
+      "atazanavir",
+      "darunavir",
+      "fosamprenavir",
+      "indinavir",
+      "nelfinavir",
+      "ritonavir",
+      "saquinavir",
+      "tipranavir"
+    ],
+    "J05AF": [
+      "abacavir",
+      "didanosine",
+      "emtricitabine",
+      "entecavir",
+      "lamivudine",
+      "stavudine",
+      "telbivudine",
+      "tenofovir alafenamide",
+      "tenofovir disoproxil",
+      "zalcitabine",
+      "zidovudine"
+    ],
+    "J05AG": [
+      "delavirdine",
+      "doravirine",
+      "efavirenz",
+      "etravirine",
+      "nevirapine",
+      "rilpivirine"
+    ],
+    "L01AA": [
+      "bendamustine",
+      "chlorambucil",
+      "cyclophosphamide",
+      "ifosfamide",
+      "mechlorethamine",
+      "melphalan",
+      "melphalan flufenamide",
+      "prednimustine",
+      "trofosfamide"
+    ],
+    "L01AB": [
+      "busulfan",
+      "treosulfan"
+    ],
+    "L01AX": [
+      "dacarbazine",
+      "mitobronitol",
+      "pipobroman",
+      "temozolomide"
+    ],
+    "L01BA": [
+      "methotrexate",
+      "pemetrexed",
+      "pralatrexate",
+      "raltitrexed"
+    ],
+    "L01BB": [
+      "cladribine",
+      "clofarabine",
+      "fludarabine",
+      "mercaptopurine",
+      "nelarabine",
+      "thioguanine"
+    ],
+    "L01BC": [
+      "azacitidine",
+      "capecitabine",
+      "cytarabine",
+      "decitabine",
+      "floxuridine",
+      "fluorouracil",
+      "gemcitabine",
+      "tegafur"
+    ],
+    "L01EA": [
+      "asciminib",
+      "bosutinib",
+      "dasatinib",
+      "imatinib",
+      "nilotinib",
+      "ponatinib"
+    ],
+    "L01EX": [
+      "avapritinib",
+      "cabozantinib",
+      "capivasertib",
+      "capmatinib",
+      "entrectinib",
+      "gilteritinib",
+      "larotrectinib",
+      "lenvatinib",
+      "midostaurin",
+      "nintedanib",
+      "pazopanib",
+      "pexidartinib",
+      "pralsetinib",
+      "quizartinib",
+      "regorafenib",
+      "repotrectinib",
+      "ripretinib",
+      "selpercatinib",
+      "sorafenib",
+      "sunitinib",
+      "tepotinib",
+      "umbralisib",
+      "vandetanib",
+      "vimseltinib"
+    ],
+    "L01XG": [
+      "bortezomib",
+      "carfilzomib",
+      "ixazomib"
+    ],
+    "L01XX": [
+      "adagrasib",
+      "aflibercept",
+      "altretamine",
+      "amsacrine",
+      "anagrelide",
+      "arsenic trioxide",
+      "asparaginase",
+      "belzutifan",
+      "calaspargase pegol",
+      "celecoxib",
+      "denileukin diftitox",
+      "eflornithine",
+      "eribulin",
+      "estramustine",
+      "hydroxyurea",
+      "imetelstat",
+      "lurbinectedin",
+      "masoprocol",
+      "mitotane",
+      "nirogacestat",
+      "omacetaxine mepesuccinate",
+      "pegaspargase",
+      "pentostatin",
+      "revumenib",
+      "selinexor",
+      "sotorasib",
+      "tagraxofusp",
+      "tazemetostat",
+      "tebentafusp",
+      "venetoclax"
+    ],
+    "L02AE": [
+      "buserelin",
+      "goserelin",
+      "histrelin",
+      "leuprolide",
+      "triptorelin"
+    ],
+    "L02BA": [
+      "elacestrant",
+      "fulvestrant",
+      "tamoxifen",
+      "toremifene"
+    ],
+    "L02BB": [
+      "apalutamide",
+      "bicalutamide",
+      "darolutamide",
+      "enzalutamide",
+      "flutamide",
+      "nilutamide"
+    ],
+    "L02BG": [
+      "aminoglutethimide",
+      "anastrozole",
+      "exemestane",
+      "formestane",
+      "letrozole"
+    ],
+    "L03AB": [
+      "gamma-interferon",
+      "interferon alfa-2a",
+      "interferon alfa-2b",
+      "interferon alfa-n1",
+      "interferon alfacon-1",
+      "interferon beta-1a",
+      "interferon beta-1b",
+      "interferon-beta",
+      "peginterferon alfa-2a",
+      "peginterferon alfa-2b",
+      "peginterferon beta-1a",
+      "ropeginterferon alfa-2b"
+    ],
+    "L04AB": [
+      "adalimumab",
+      "certolizumab pegol",
+      "etanercept",
+      "golimumab",
+      "infliximab"
+    ],
+    "L04AD": [
+      "cyclosporine",
+      "tacrolimus",
+      "voclosporin"
+    ],
+    "L04AX": [
+      "azathioprine",
+      "dimethyl fumarate",
+      "diroximel fumarate",
+      "lenalidomide",
+      "methotrexate",
+      "monomethyl fumarate",
+      "pirfenidone",
+      "pomalidomide",
+      "thalidomide"
+    ],
+    "M01AB": [
+      "aceclofenac",
+      "acemetacin",
+      "bufexamac",
+      "bumadizone",
+      "diclofenac",
+      "etodolac",
+      "indomethacin",
+      "ketorolac",
+      "lonazolac",
+      "proglumetacin",
+      "sulindac",
+      "tolmetin",
+      "zomepirac"
+    ],
+    "M01AC": [
+      "droxicam",
+      "lornoxicam",
+      "meloxicam",
+      "piroxicam",
+      "tenoxicam"
+    ],
+    "M01AE": [
+      "alminoprofen",
+      "dexketoprofen",
+      "fenbufen",
+      "fenoprofen",
+      "flurbiprofen",
+      "ibuprofen",
+      "ketoprofen",
+      "loxoprofen",
+      "naproxen",
+      "oxaprozin",
+      "suprofen"
+    ],
+    "M01AH": [
+      "celecoxib",
+      "etoricoxib",
+      "parecoxib",
+      "rofecoxib",
+      "valdecoxib"
+    ],
+    "M01AX": [
+      "apazone",
+      "benzydamine",
+      "chondroitin sulfates",
+      "diacetylrhein",
+      "feprazone",
+      "glucosamine",
+      "morniflumate",
+      "nabumetone",
+      "niflumic acid",
+      "nimesulide",
+      "orgotein",
+      "oxaceprol",
+      "proquazone"
+    ],
+    "M01CC": [
+      "penicillamine"
+    ],
+    "M02AA": [
+      "aceclofenac",
+      "benzydamine",
+      "bufexamac",
+      "clofezone",
+      "dexketoprofen",
+      "diclofenac",
+      "etofenamate",
+      "felbinac",
+      "feprazone",
+      "flurbiprofen",
+      "ibuprofen",
+      "indomethacin",
+      "ketoprofen",
+      "loxoprofen",
+      "meclofenamic acid",
+      "mofebutazone",
+      "naproxen",
+      "niflumic acid",
+      "nimesulide",
+      "oxyphenbutazone",
+      "phenylbutazone",
+      "piketoprofen",
+      "piroxicam",
+      "tolmetin"
+    ],
+    "M03BA": [
+      "carisoprodol",
+      "febarbamate",
+      "methocarbamol",
+      "styramate"
+    ],
+    "M04AA": [
+      "allopurinol",
+      "febuxostat",
+      "tisopurine"
+    ],
+    "N01BA": [
+      "benzocaine",
+      "chloroprocaine",
+      "procaine",
+      "tetracaine"
+    ],
+    "N01BB": [
+      "articaine",
+      "bupivacaine",
+      "dibucaine",
+      "etidocaine",
+      "levobupivacaine",
+      "lidocaine",
+      "mepivacaine",
+      "prilocaine",
+      "ropivacaine"
+    ],
+    "N02BA": [
+      "aloxiprin",
+      "aspirin",
+      "benorilate",
+      "diflunisal",
+      "ethenzamide",
+      "imidazole-2-hydroxybenzoate",
+      "morpholine salicylate",
+      "salicylamide",
+      "salsalate"
+    ],
+    "N02BE": [
+      "acetaminophen",
+      "phenacetin"
+    ],
+    "N02CA": [
+      "dihydroergotamine",
+      "ergotamine",
+      "lisuride",
+      "methysergide"
+    ],
+    "N02CC": [
+      "almotriptan",
+      "eletriptan",
+      "frovatriptan",
+      "lasmiditan",
+      "naratriptan",
+      "rizatriptan",
+      "sumatriptan",
+      "zolmitriptan"
+    ],
+    "N02CX": [
+      "clonidine",
+      "fonazine",
+      "iprazochrome",
+      "oxetorone",
+      "pizotyline"
+    ],
+    "N03AA": [
+      "barbexaclone",
+      "mephobarbital",
+      "metharbital",
+      "phenobarbital",
+      "primidone"
+    ],
+    "N03AF": [
+      "carbamazepine",
+      "eslicarbazepine",
+      "oxcarbazepine",
+      "rufinamide"
+    ],
+    "N03AG": [
+      "dipropylacetamide",
+      "progabide",
+      "tiagabine",
+      "vigabatrin"
+    ],
+    "N03AX": [
+      "beclamide",
+      "brivaracetam",
+      "cannabidiol",
+      "cenobamate",
+      "ezogabine",
+      "felbamate",
+      "fenfluramine",
+      "ganaxolone",
+      "lacosamide",
+      "lamotrigine",
+      "levetiracetam",
+      "perampanel",
+      "phenacemide",
+      "stiripentol",
+      "sulthiame",
+      "topiramate",
+      "zonisamide"
+    ],
+    "N04BA": [
+      "levodopa"
+    ],
+    "N04BC": [
+      "apomorphine",
+      "bromocriptine",
+      "cabergoline",
+      "pergolide",
+      "piribedil",
+      "pramipexole",
+      "ropinirole",
+      "rotigotine"
+    ],
+    "N04BX": [
+      "budipine",
+      "entacapone",
+      "opicapone",
+      "tolcapone"
+    ],
+    "N05AB": [
+      "acetophenazine",
+      "fluphenazine",
+      "perazine",
+      "perphenazine",
+      "prochlorperazine",
+      "thiopropazate",
+      "thioproperazine",
+      "trifluoperazine"
+    ],
+    "N05AD": [
+      "benperidol",
+      "bromperidol",
+      "droperidol",
+      "haloperidol",
+      "lumateperone",
+      "metylperon",
+      "pipamperone",
+      "trifluperidol"
+    ],
+    "N05AF": [
+      "chlorprothixene",
+      "flupenthixol",
+      "thiothixene",
+      "zuclopenthixol"
+    ],
+    "N05AH": [
+      "asenapine",
+      "clothiapine",
+      "clozapine",
+      "loxapine",
+      "olanzapine",
+      "quetiapine"
+    ],
+    "N05BA": [
+      "alprazolam",
+      "bromazepam",
+      "chlordiazepoxide",
+      "clobazam",
+      "clotiazepam",
+      "cloxazolam",
+      "diazepam",
+      "ethyl loflazepate",
+      "halazepam",
+      "ketazolam",
+      "lorazepam",
+      "medazepam",
+      "nordazepam",
+      "oxazepam",
+      "prazepam",
+      "tofisopam"
+    ],
+    "N05CD": [
+      "brotizolam",
+      "estazolam",
+      "flunitrazepam",
+      "flurazepam",
+      "lormetazepam",
+      "midazolam",
+      "nitrazepam",
+      "quazepam",
+      "remimazolam",
+      "temazepam",
+      "triazolam",
+      "triazulenone"
+    ],
+    "N05CF": [
+      "eszopiclone",
+      "zaleplon",
+      "zolpidem",
+      "zopiclone"
+    ],
+    "N05CH": [
+      "melatonin",
+      "ramelteon",
+      "tasimelteon"
+    ],
+    "N05CM": [
+      "carbromal",
+      "chlormethiazole",
+      "dexmedetomidine",
+      "ethchlorvynol",
+      "methaqualone",
+      "niaprazine",
+      "propiomazine",
+      "scopolamine",
+      "triclofos",
+      "valerian root extract"
+    ],
+    "N06AA": [
+      "amineptin",
+      "amitriptyline",
+      "amoxapine",
+      "butriptyline",
+      "clomipramine",
+      "desipramine",
+      "dibenzepin",
+      "dothiepin",
+      "doxepin",
+      "imipramine",
+      "iprindole",
+      "lofepramine",
+      "maprotiline",
+      "melitracen",
+      "nortriptyline",
+      "opipramol",
+      "protriptyline",
+      "quinupramine",
+      "trimipramine"
+    ],
+    "N06AB": [
+      "citalopram",
+      "escitalopram",
+      "fluoxetine",
+      "fluvoxamine",
+      "paroxetine",
+      "sertraline"
+    ],
+    "N06AX": [
+      "5-hydroxytryptophan",
+      "St. John's wort extract",
+      "bifemelane",
+      "brexanolone",
+      "bupropion",
+      "desvenlafaxine",
+      "duloxetine",
+      "esketamine",
+      "gepirone",
+      "levomilnacipran",
+      "medifoxamine",
+      "mianserin",
+      "milnacipran",
+      "minaprine",
+      "mirtazapine",
+      "nefazodone",
+      "nomifensine",
+      "reboxetine",
+      "tianeptine",
+      "trazodone",
+      "tryptophan",
+      "venlafaxine",
+      "vilazodone",
+      "viloxazine",
+      "vortioxetine",
+      "zuranolone"
+    ],
+    "N06BA": [
+      "amphetamine",
+      "armodafinil",
+      "atomoxetine",
+      "dexmethylphenidate",
+      "dextroamphetamine",
+      "fenethylline",
+      "fenozolone",
+      "lisdexamfetamine",
+      "methamphetamine",
+      "methylphenidate",
+      "modafinil",
+      "pemoline",
+      "solriamfetol"
+    ],
+    "N07AA": [
+      "ambenonium",
+      "distigmine",
+      "neostigmine",
+      "pyridostigmine"
+    ],
+    "N07BB": [
+      "acamprosate",
+      "calcium carbimide",
+      "disulfiram",
+      "nalmefene",
+      "naltrexone"
+    ],
+    "N07XX": [
+      "amifampridine",
+      "arimoclomol",
+      "dalfampridine",
+      "deutetrabenazine",
+      "edaravone",
+      "eplontersen",
+      "inotersen",
+      "levacetylleucine",
+      "omaveloxolone",
+      "patisiran",
+      "pitolisant",
+      "riluzole",
+      "tafamidis",
+      "tetrabenazine",
+      "tirilazad",
+      "tofersen",
+      "trofinetide",
+      "valbenazine",
+      "vutrisiran"
+    ],
+    "P01AB": [
+      "metronidazole",
+      "nimorazole",
+      "ornidazole",
+      "secnidazole",
+      "tinidazole"
+    ],
+    "P02CA": [
+      "albendazole",
+      "fenbendazole",
+      "flubendazole",
+      "mebendazole",
+      "thiabendazole"
+    ],
+    "P03AA": [
+      "disulfiram",
+      "mesulfen",
+      "thiram"
+    ],
+    "R01AD": [
+      "beclomethasone",
+      "betamethasone",
+      "budesonide",
+      "ciclesonide",
+      "dexamethasone",
+      "flunisolide",
+      "fluticasone",
+      "mometasone",
+      "prednisolone",
+      "tixocortol",
+      "triamcinolone"
+    ],
+    "R01AX": [
+      "framycetin",
+      "hexamidine",
+      "mupirocin",
+      "vitamin A"
+    ],
+    "R02AD": [
+      "ambroxol",
+      "benzocaine",
+      "cocaine",
+      "dyclonine",
+      "lidocaine"
+    ],
+    "R02AX": [
+      "benzydamine",
+      "flurbiprofen",
+      "ibuprofen"
+    ],
+    "R03AC": [
+      "albuterol",
+      "bitolterol",
+      "clenbuterol",
+      "fenoterol",
+      "formoterol",
+      "hexoprenaline",
+      "indacaterol",
+      "isoetharine",
+      "olodaterol",
+      "pirbuterol",
+      "procaterol",
+      "reproterol",
+      "rimiterol",
+      "salmeterol",
+      "terbutaline",
+      "tulobuterol"
+    ],
+    "R03BA": [
+      "beclomethasone",
+      "betamethasone",
+      "budesonide",
+      "ciclesonide",
+      "flunisolide",
+      "fluticasone",
+      "mometasone",
+      "triamcinolone"
+    ],
+    "R03CC": [
+      "albuterol",
+      "bambuterol",
+      "clenbuterol",
+      "fenoterol",
+      "formoterol",
+      "hexoprenaline",
+      "isoetharine",
+      "pirbuterol",
+      "procaterol",
+      "reproterol",
+      "terbutaline",
+      "tulobuterol"
+    ],
+    "R03DC": [
+      "montelukast",
+      "zafirlukast"
+    ],
+    "R05DB": [
+      "benproperine",
+      "benzonatate",
+      "butamirate",
+      "carbetapentane",
+      "chlophedianol",
+      "clobutinol",
+      "cloperastine",
+      "dibunate",
+      "dimethoxanate",
+      "dipropizine",
+      "dipropizine, (S)-isomer",
+      "fedrilate",
+      "isoaminile",
+      "oxeladin",
+      "oxolamine",
+      "pipazethate",
+      "zipeprol"
+    ],
+    "R06AE": [
+      "buclizine",
+      "cetirizine",
+      "chlorcyclizine",
+      "cyclizine",
+      "levocetirizine",
+      "meclizine",
+      "oxatomide"
+    ],
+    "R06AX": [
+      "acrivastine",
+      "antazoline",
+      "astemizole",
+      "azatadine",
+      "azelastine",
+      "bamipine",
+      "cyproheptadine",
+      "desloratadine",
+      "ebastine",
+      "epinastine",
+      "fexofenadine",
+      "ketotifen",
+      "loratadine",
+      "mebhydroline",
+      "mizolastine",
+      "phenindamine",
+      "pimethixene",
+      "terfenadine",
+      "triprolidine",
+      "tritoqualine"
+    ],
+    "S01AA": [
+      "amikacin",
+      "ampicillin",
+      "azithromycin",
+      "bacitracin",
+      "cefuroxime",
+      "chloramphenicol",
+      "chlortetracycline",
+      "dibekacin",
+      "dihydrostreptomycin",
+      "erythromycin",
+      "framycetin",
+      "gentamicin",
+      "kanamycin",
+      "micronomicin",
+      "natamycin",
+      "neomycin",
+      "netilmicin",
+      "oxytetracycline",
+      "penicillin G",
+      "polymyxin B",
+      "rifamycin SV",
+      "tetracycline",
+      "tobramycin",
+      "tyrothricin",
+      "vancomycin"
+    ],
+    "S01AB": [
+      "sulfacetamide",
+      "sulfamethizole",
+      "sulfisoxazole"
+    ],
+    "S01AD": [
+      "acyclovir",
+      "famciclovir",
+      "fomivirsen",
+      "ganciclovir",
+      "idoxuridine",
+      "trifluridine",
+      "vidarabine"
+    ],
+    "S01AE": [
+      "besifloxacin",
+      "ciprofloxacin",
+      "gatifloxacin",
+      "levofloxacin",
+      "lomefloxacin",
+      "moxifloxacin",
+      "norfloxacin",
+      "ofloxacin"
+    ],
+    "S01BA": [
+      "alclometasone",
+      "betamethasone",
+      "clobetasol",
+      "clobetasone",
+      "cortisone",
+      "desonide",
+      "dexamethasone",
+      "difluprednate",
+      "fluorometholone",
+      "hydrocortisone",
+      "loteprednol",
+      "medrysone",
+      "prednisolone",
+      "rimexolone",
+      "triamcinolone"
+    ],
+    "S01BC": [
+      "bromfenac",
+      "diclofenac",
+      "flurbiprofen",
+      "indomethacin",
+      "ketorolac",
+      "nepafenac",
+      "oxyphenbutazone",
+      "piroxicam",
+      "salicylic acid"
+    ],
+    "S01CB": [
+      "betamethasone",
+      "dexamethasone",
+      "fluorometholone",
+      "hydrocortisone",
+      "prednisolone"
+    ],
+    "S01EA": [
+      "apraclonidine",
+      "brimonidine",
+      "clonidine",
+      "dipivefrin",
+      "epinephrine"
+    ],
+    "S01EB": [
+      "aceclidine",
+      "acetylcholine",
+      "carbachol",
+      "demecarium",
+      "ecothiopate",
+      "isoflurophate",
+      "neostigmine",
+      "physostigmine",
+      "pilocarpine"
+    ],
+    "S01EC": [
+      "acetazolamide",
+      "brinzolamide",
+      "dichlorphenamide",
+      "dorzolamide",
+      "methazolamide"
+    ],
+    "S01ED": [
+      "betaxolol",
+      "carteolol",
+      "levobunolol",
+      "metipranolol",
+      "timolol"
+    ],
+    "S01EE": [
+      "bimatoprost",
+      "latanoprost",
+      "latanoprostene bunod",
+      "tafluprost",
+      "travoprost",
+      "unoprostone"
+    ],
+    "S01FA": [
+      "atropine",
+      "cyclopentolate",
+      "homatropine",
+      "methscopolamine",
+      "scopolamine",
+      "tropicamide"
+    ],
+    "S01GX": [
+      "alcaftadine",
+      "azelastine",
+      "cetirizine",
+      "cromolyn",
+      "emedastine",
+      "epinastine",
+      "ketotifen",
+      "levocabastine",
+      "lodoxamide",
+      "nedocromil",
+      "olopatadine"
+    ],
+    "S01XA": [
+      "acetylcysteine",
+      "alteplase",
+      "aluminum potassium sulfate",
+      "ascorbic acid",
+      "avacincaptad pegol",
+      "cenegermin",
+      "cyclosporine",
+      "cysteamine",
+      "dexpanthenol",
+      "ethylmorphine",
+      "heparin",
+      "inosine",
+      "lifitegrast",
+      "nandrolone",
+      "ocriplasmin",
+      "pegcetacoplan",
+      "potassium iodide",
+      "riboflavin",
+      "sirolimus",
+      "varenicline",
+      "vitamin A",
+      "voretigene neparvovec"
+    ],
+    "S02AA": [
+      "acetic acid",
+      "aluminum acetotartrate",
+      "boric acid",
+      "chloramphenicol",
+      "chlorhexidine",
+      "ciprofloxacin",
+      "clioquinol",
+      "fosfomycin",
+      "gentamicin",
+      "hydrogen peroxide",
+      "miconazole",
+      "neomycin",
+      "nitrofurazone",
+      "ofloxacin",
+      "polymyxin B",
+      "rifamycin SV",
+      "tetracycline"
+    ],
+    "S02BA": [
+      "betamethasone",
+      "dexamethasone",
+      "hydrocortisone",
+      "prednisolone"
+    ],
+    "S03AA": [
+      "chloramphenicol",
+      "chlorhexidine",
+      "ciprofloxacin",
+      "gentamicin",
+      "hexamidine",
+      "neomycin",
+      "polymyxin B",
+      "tetracycline"
+    ],
+    "S03BA": [
+      "betamethasone",
+      "dexamethasone",
+      "prednisolone"
+    ],
+    "V03AB": [
+      "4-dimethylaminophenol",
+      "acetylcysteine",
+      "amyl nitrite",
+      "andexanet alfa",
+      "copper sulfate",
+      "dimercaprol",
+      "ethanol",
+      "flumazenil",
+      "fomepizole",
+      "glutathione",
+      "hydroxocobalamin",
+      "idarucizumab",
+      "ipecac",
+      "methionine",
+      "methylene blue",
+      "naloxone",
+      "obidoxime",
+      "phentolamine",
+      "physostigmine",
+      "potassium iodide",
+      "potassium permanganate",
+      "pralidoxime",
+      "protamines",
+      "prussian blue insoluble",
+      "sodium nitrite",
+      "sugammadex",
+      "thiosulfate"
+    ]
+  },
+  "drugs": {
+    "Acarbose": {
+      "atc4": [
+        "A10BF"
+      ],
+      "rxcui": "16681"
+    },
+    "Acetaminophen": {
+      "atc4": [
+        "N02BE"
+      ],
+      "rxcui": "161"
+    },
+    "Acetazolamide": {
+      "atc4": [
+        "S01EC"
+      ],
+      "rxcui": "167"
+    },
+    "Acyclovir": {
+      "atc4": [
+        "D06BB",
+        "J05AB",
+        "S01AD"
+      ],
+      "rxcui": "281"
+    },
+    "Adenosine": {
+      "atc4": [
+        "C01EB"
+      ],
+      "rxcui": "296"
+    },
+    "Alfuzosin": {
+      "atc4": [
+        "G04CA"
+      ],
+      "rxcui": "17300"
+    },
+    "Allopurinol": {
+      "atc4": [
+        "M04AA"
+      ],
+      "rxcui": "519"
+    },
+    "Amlodipine": {
+      "atc4": [
+        "C08CA"
+      ],
+      "rxcui": "17767"
+    },
+    "Amoxapine": {
+      "atc4": [
+        "N06AA"
+      ],
+      "rxcui": "722"
+    },
+    "Amoxicillin": {
+      "atc4": [
+        "J01CA"
+      ],
+      "rxcui": "723"
+    },
+    "Amphetamine": {
+      "atc4": [
+        "N06BA"
+      ],
+      "rxcui": "725"
+    },
+    "Amylases": {
+      "atc4": [
+        "A09AA"
+      ],
+      "rxcui": "743"
+    },
+    "Anastrozole": {
+      "atc4": [
+        "L02BG"
+      ],
+      "rxcui": "84857"
+    },
+    "Aspirin": {
+      "atc4": [
+        "A01AD",
+        "B01AC",
+        "N02BA"
+      ],
+      "rxcui": "1191"
+    },
+    "Atazanavir": {
+      "atc4": [
+        "J05AE"
+      ],
+      "rxcui": "343047"
+    },
+    "Atenolol": {
+      "atc4": [
+        "C07AB"
+      ],
+      "rxcui": "1202"
+    },
+    "Benzocaine": {
+      "atc4": [
+        "C05AD",
+        "D04AB",
+        "N01BA",
+        "R02AD"
+      ],
+      "rxcui": "1399"
+    },
+    "Bromocriptine": {
+      "atc4": [
+        "G02CB",
+        "N04BC"
+      ],
+      "rxcui": "1760"
+    },
+    "Busulfan": {
+      "atc4": [
+        "L01AB"
+      ],
+      "rxcui": "1828"
+    },
+    "Capreomycin": {
+      "atc4": [
+        "J04AB"
+      ],
+      "rxcui": "78903"
+    },
+    "Captopril": {
+      "atc4": [
+        "C09AA"
+      ],
+      "rxcui": "1998"
+    },
+    "Carbamazepine": {
+      "atc4": [
+        "N03AF"
+      ],
+      "rxcui": "2002"
+    },
+    "Carteolol": {
+      "atc4": [
+        "C07AA",
+        "S01ED"
+      ],
+      "rxcui": "2116"
+    },
+    "Caspofungin": {
+      "atc4": [
+        "J02AX"
+      ],
+      "rxcui": "140108"
+    },
+    "Chlorambucil": {
+      "atc4": [
+        "L01AA"
+      ],
+      "rxcui": "2346"
+    },
+    "Chlorazepate": {
+      "atc4": [],
+      "rxcui": "2353"
+    },
+    "Chlorothiazide": {
+      "atc4": [
+        "C03AA"
+      ],
+      "rxcui": "2396"
+    },
+    "Ciprofloxacin": {
+      "atc4": [
+        "J01MA",
+        "S01AE",
+        "S02AA",
+        "S03AA"
+      ],
+      "rxcui": "2551"
+    },
+    "Citalopram": {
+      "atc4": [
+        "N06AB"
+      ],
+      "rxcui": "2556"
+    },
+    "Clindamycin": {
+      "atc4": [
+        "D10AF",
+        "G01AA",
+        "J01FF"
+      ],
+      "rxcui": "2582"
+    },
+    "Clonidine": {
+      "atc4": [
+        "C02AC",
+        "N02CX",
+        "S01EA"
+      ],
+      "rxcui": "2599"
+    },
+    "Clopidogrel": {
+      "atc4": [
+        "B01AC"
+      ],
+      "rxcui": "32968"
+    },
+    "Clozapine": {
+      "atc4": [
+        "N05AH"
+      ],
+      "rxcui": "2626"
+    },
+    "Cosyntropin": {
+      "atc4": [
+        "H01AA"
+      ],
+      "rxcui": "2890"
+    },
+    "Cyclosporine": {
+      "atc4": [
+        "L04AD",
+        "S01XA"
+      ],
+      "rxcui": "3008"
+    },
+    "Dacarbazine": {
+      "atc4": [
+        "L01AX"
+      ],
+      "rxcui": "3098"
+    },
+    "Dalfampridine": {
+      "atc4": [
+        "N07XX"
+      ],
+      "rxcui": "897018"
+    },
+    "Desipramine": {
+      "atc4": [
+        "N06AA"
+      ],
+      "rxcui": "3247"
+    },
+    "Dexmethylphenidate": {
+      "atc4": [
+        "N06BA"
+      ],
+      "rxcui": "352372"
+    },
+    "Dextroamphetamine": {
+      "atc4": [
+        "N06BA"
+      ],
+      "rxcui": "3288"
+    },
+    "Diclofenac": {
+      "atc4": [
+        "D11AX",
+        "M01AB",
+        "M02AA",
+        "S01BC"
+      ],
+      "rxcui": "3355"
+    },
+    "Dicyclomine": {
+      "atc4": [
+        "A03AA"
+      ],
+      "rxcui": "3361"
+    },
+    "Didanosine": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "3364"
+    },
+    "Diflunisal": {
+      "atc4": [
+        "N02BA"
+      ],
+      "rxcui": "3393"
+    },
+    "Diltiazem": {
+      "atc4": [
+        "C05AE",
+        "C08DB"
+      ],
+      "rxcui": "3443"
+    },
+    "Dipyridamole": {
+      "atc4": [
+        "B01AC"
+      ],
+      "rxcui": "3521"
+    },
+    "Disulfiram": {
+      "atc4": [
+        "N07BB",
+        "P03AA"
+      ],
+      "rxcui": "3554"
+    },
+    "Doxazosin": {
+      "atc4": [
+        "C02CA"
+      ],
+      "rxcui": "49276"
+    },
+    "Droperidol": {
+      "atc4": [
+        "N05AD"
+      ],
+      "rxcui": "3648"
+    },
+    "Emtricitabine": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "276237"
+    },
+    "Enalaprilat": {
+      "atc4": [],
+      "rxcui": "3829"
+    },
+    "Endopeptidases": {
+      "atc4": [],
+      "rxcui": null
+    },
+    "Epoetin Alfa": {
+      "atc4": [],
+      "rxcui": "105694"
+    },
+    "Ergotamine": {
+      "atc4": [
+        "N02CA"
+      ],
+      "rxcui": "4025"
+    },
+    "Erythromycin": {
+      "atc4": [
+        "D10AF",
+        "J01FA",
+        "S01AA"
+      ],
+      "rxcui": "4053"
+    },
+    "Escitalopram": {
+      "atc4": [
+        "N06AB"
+      ],
+      "rxcui": "321988"
+    },
+    "Estradiol": {
+      "atc4": [
+        "G03CA"
+      ],
+      "rxcui": "4083"
+    },
+    "Estrogens, Conjugated (USP)": {
+      "atc4": [
+        "G03CA"
+      ],
+      "rxcui": "4099"
+    },
+    "Eszopiclone": {
+      "atc4": [
+        "N05CF"
+      ],
+      "rxcui": "461016"
+    },
+    "Etodolac": {
+      "atc4": [
+        "M01AB"
+      ],
+      "rxcui": "24605"
+    },
+    "Exemestane": {
+      "atc4": [
+        "L02BG"
+      ],
+      "rxcui": "258494"
+    },
+    "Factor VIIa": {
+      "atc4": [
+        "B02BD"
+      ],
+      "rxcui": "4256"
+    },
+    "Felodipine": {
+      "atc4": [
+        "C08CA"
+      ],
+      "rxcui": "4316"
+    },
+    "Fenofibrate": {
+      "atc4": [
+        "C10AB"
+      ],
+      "rxcui": "8703"
+    },
+    "Fenoprofen": {
+      "atc4": [
+        "M01AE"
+      ],
+      "rxcui": "4331"
+    },
+    "Fidaxomicin": {
+      "atc4": [
+        "A07AA"
+      ],
+      "rxcui": "1111103"
+    },
+    "Flavoxate": {
+      "atc4": [
+        "G04BD"
+      ],
+      "rxcui": "4440"
+    },
+    "Fluconazole": {
+      "atc4": [
+        "D01AC",
+        "J02AC"
+      ],
+      "rxcui": "4450"
+    },
+    "Fluoxetine": {
+      "atc4": [
+        "N06AB"
+      ],
+      "rxcui": "4493"
+    },
+    "Flurbiprofen": {
+      "atc4": [
+        "M01AE",
+        "M02AA",
+        "R02AX",
+        "S01BC"
+      ],
+      "rxcui": "4502"
+    },
+    "Flutamide": {
+      "atc4": [
+        "L02BB"
+      ],
+      "rxcui": "4508"
+    },
+    "Fluvoxamine": {
+      "atc4": [
+        "N06AB"
+      ],
+      "rxcui": "42355"
+    },
+    "Furosemide": {
+      "atc4": [
+        "C03CA"
+      ],
+      "rxcui": "4603"
+    },
+    "Gemfibrozil": {
+      "atc4": [
+        "C10AB"
+      ],
+      "rxcui": "4719"
+    },
+    "Goserelin": {
+      "atc4": [
+        "L02AE"
+      ],
+      "rxcui": "50610"
+    },
+    "Griseofulvin": {
+      "atc4": [
+        "D01AA",
+        "D01BA"
+      ],
+      "rxcui": "5021"
+    },
+    "Guanfacine": {
+      "atc4": [
+        "C02AC"
+      ],
+      "rxcui": "40114"
+    },
+    "Heparin": {
+      "atc4": [],
+      "rxcui": "235473"
+    },
+    "Hydrochlorothiazide": {
+      "atc4": [
+        "C03AA"
+      ],
+      "rxcui": "5487"
+    },
+    "Hyoscyamine": {
+      "atc4": [
+        "A03BA"
+      ],
+      "rxcui": "153970"
+    },
+    "Ibuprofen": {
+      "atc4": [
+        "C01EB",
+        "G02CC",
+        "M01AE",
+        "M02AA",
+        "R02AX"
+      ],
+      "rxcui": "5640"
+    },
+    "Imipramine": {
+      "atc4": [
+        "N06AA"
+      ],
+      "rxcui": "5691"
+    },
+    "Indomethacin": {
+      "atc4": [
+        "C01EB",
+        "M01AB",
+        "M02AA",
+        "S01BC"
+      ],
+      "rxcui": "5781"
+    },
+    "Interferon beta-1a": {
+      "atc4": [
+        "L03AB"
+      ],
+      "rxcui": "75917"
+    },
+    "Ipratropium": {
+      "atc4": [],
+      "rxcui": "7213"
+    },
+    "Isosorbide": {
+      "atc4": [],
+      "rxcui": "6057"
+    },
+    "Itraconazole": {
+      "atc4": [
+        "J02AC"
+      ],
+      "rxcui": "28031"
+    },
+    "Ketoconazole": {
+      "atc4": [
+        "D01AC",
+        "G01AF",
+        "H02CA",
+        "J02AB"
+      ],
+      "rxcui": "6135"
+    },
+    "Ketoprofen": {
+      "atc4": [
+        "M01AE",
+        "M02AA"
+      ],
+      "rxcui": "6142"
+    },
+    "Ketorolac": {
+      "atc4": [
+        "M01AB",
+        "S01BC"
+      ],
+      "rxcui": "35827"
+    },
+    "Ketotifen": {
+      "atc4": [
+        "R06AX",
+        "S01GX"
+      ],
+      "rxcui": "6146"
+    },
+    "Lacosamide": {
+      "atc4": [
+        "N03AX"
+      ],
+      "rxcui": "623400"
+    },
+    "Lactulose": {
+      "atc4": [
+        "A06AD"
+      ],
+      "rxcui": "6218"
+    },
+    "Lamivudine": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "68244"
+    },
+    "Levalbuterol": {
+      "atc4": [],
+      "rxcui": "237159"
+    },
+    "Levetiracetam": {
+      "atc4": [
+        "N03AX"
+      ],
+      "rxcui": "114477"
+    },
+    "Levocetirizine": {
+      "atc4": [
+        "R06AE"
+      ],
+      "rxcui": "356887"
+    },
+    "Levodopa": {
+      "atc4": [
+        "N04BA"
+      ],
+      "rxcui": "6375"
+    },
+    "Levofloxacin": {
+      "atc4": [
+        "J01MA",
+        "S01AE"
+      ],
+      "rxcui": "82122"
+    },
+    "Levonorgestrel": {
+      "atc4": [
+        "G03AC",
+        "G03AD"
+      ],
+      "rxcui": "6373"
+    },
+    "Lipase": {
+      "atc4": [],
+      "rxcui": "6406"
+    },
+    "Lisdexamfetamine": {
+      "atc4": [
+        "N06BA"
+      ],
+      "rxcui": "700810"
+    },
+    "Lisinopril": {
+      "atc4": [
+        "C09AA"
+      ],
+      "rxcui": "29046"
+    },
+    "Lithium Carbonate": {
+      "atc4": [],
+      "rxcui": "42351"
+    },
+    "Loratadine": {
+      "atc4": [
+        "R06AX"
+      ],
+      "rxcui": "28889"
+    },
+    "Mebendazole": {
+      "atc4": [
+        "P02CA"
+      ],
+      "rxcui": "6672"
+    },
+    "Mefenamate": {
+      "atc4": [],
+      "rxcui": "257844"
+    },
+    "Mesalamine": {
+      "atc4": [
+        "A07EC"
+      ],
+      "rxcui": "52582"
+    },
+    "Methamphetamine": {
+      "atc4": [
+        "N06BA"
+      ],
+      "rxcui": "6816"
+    },
+    "Methenamine": {
+      "atc4": [
+        "J01XX"
+      ],
+      "rxcui": "6832"
+    },
+    "Methimazole": {
+      "atc4": [
+        "H03BB"
+      ],
+      "rxcui": "6835"
+    },
+    "Methocarbamol": {
+      "atc4": [
+        "M03BA"
+      ],
+      "rxcui": "6845"
+    },
+    "Methotrexate": {
+      "atc4": [
+        "L01BA",
+        "L04AX"
+      ],
+      "rxcui": "6851"
+    },
+    "Methyldopa": {
+      "atc4": [
+        "C02AB"
+      ],
+      "rxcui": "6876"
+    },
+    "Methylphenidate": {
+      "atc4": [
+        "N06BA"
+      ],
+      "rxcui": "6901"
+    },
+    "Miconazole": {
+      "atc4": [
+        "A01AB",
+        "A07AC",
+        "D01AC",
+        "G01AF",
+        "J02AB",
+        "S02AA"
+      ],
+      "rxcui": "6932"
+    },
+    "Mirtazapine": {
+      "atc4": [
+        "N06AX"
+      ],
+      "rxcui": "15996"
+    },
+    "Mometasone": {
+      "atc4": [
+        "D07AC",
+        "D07XC",
+        "R01AD",
+        "R03BA"
+      ],
+      "rxcui": "108118"
+    },
+    "Naproxen": {
+      "atc4": [
+        "G02CC",
+        "M01AE",
+        "M02AA"
+      ],
+      "rxcui": "7258"
+    },
+    "Nelfinavir": {
+      "atc4": [
+        "J05AE"
+      ],
+      "rxcui": "134527"
+    },
+    "Neostigmine": {
+      "atc4": [
+        "N07AA",
+        "S01EB"
+      ],
+      "rxcui": "7315"
+    },
+    "Nevirapine": {
+      "atc4": [
+        "J05AG"
+      ],
+      "rxcui": "53654"
+    },
+    "Niacin": {
+      "atc4": [
+        "C04AC",
+        "C10AD"
+      ],
+      "rxcui": "7393"
+    },
+    "Nifedipine": {
+      "atc4": [
+        "C08CA"
+      ],
+      "rxcui": "7417"
+    },
+    "Nitrofurantoin": {
+      "atc4": [
+        "J01XE"
+      ],
+      "rxcui": "7454"
+    },
+    "Nitroglycerin": {
+      "atc4": [
+        "C01DA",
+        "C05AE"
+      ],
+      "rxcui": "4917"
+    },
+    "Norfloxacin": {
+      "atc4": [
+        "J01MA",
+        "S01AE"
+      ],
+      "rxcui": "7517"
+    },
+    "Nortriptyline": {
+      "atc4": [
+        "N06AA"
+      ],
+      "rxcui": "7531"
+    },
+    "Ofloxacin": {
+      "atc4": [
+        "J01MA",
+        "S01AE",
+        "S02AA"
+      ],
+      "rxcui": "7623"
+    },
+    "Olmesartan": {
+      "atc4": [],
+      "rxcui": "321064"
+    },
+    "Olmesartan medoxomil": {
+      "atc4": [
+        "C09CA"
+      ],
+      "rxcui": "118463"
+    },
+    "Ondansetron": {
+      "atc4": [
+        "A04AA"
+      ],
+      "rxcui": "26225"
+    },
+    "Oxazepam": {
+      "atc4": [
+        "N05BA"
+      ],
+      "rxcui": "7781"
+    },
+    "Oxcarbazepine": {
+      "atc4": [
+        "N03AF"
+      ],
+      "rxcui": "32624"
+    },
+    "Pantoprazole": {
+      "atc4": [
+        "A02BC"
+      ],
+      "rxcui": "40790"
+    },
+    "Paromomycin": {
+      "atc4": [
+        "A07AA"
+      ],
+      "rxcui": "7934"
+    },
+    "Pazopanib": {
+      "atc4": [
+        "L01EX"
+      ],
+      "rxcui": "714438"
+    },
+    "Pemoline": {
+      "atc4": [
+        "N06BA"
+      ],
+      "rxcui": "7966"
+    },
+    "Penicillamine": {
+      "atc4": [
+        "M01CC"
+      ],
+      "rxcui": "7975"
+    },
+    "Penicillin V": {
+      "atc4": [
+        "J01CE"
+      ],
+      "rxcui": "7984"
+    },
+    "Phentermine": {
+      "atc4": [
+        "A08AA"
+      ],
+      "rxcui": "8152"
+    },
+    "Phentolamine": {
+      "atc4": [
+        "C04AB",
+        "V03AB"
+      ],
+      "rxcui": "8153"
+    },
+    "Piroxicam": {
+      "atc4": [
+        "M01AC",
+        "M02AA",
+        "S01BC"
+      ],
+      "rxcui": "8356"
+    },
+    "Ponatinib": {
+      "atc4": [
+        "L01EA"
+      ],
+      "rxcui": "1364347"
+    },
+    "Potassium Chloride": {
+      "atc4": [
+        "A12BA",
+        "B05XA"
+      ],
+      "rxcui": "8591"
+    },
+    "Pravastatin": {
+      "atc4": [
+        "C10AA"
+      ],
+      "rxcui": "42463"
+    },
+    "Prilocaine": {
+      "atc4": [
+        "N01BB"
+      ],
+      "rxcui": "8686"
+    },
+    "Primidone": {
+      "atc4": [
+        "N03AA"
+      ],
+      "rxcui": "8691"
+    },
+    "Prochlorperazine": {
+      "atc4": [
+        "N05AB"
+      ],
+      "rxcui": "8704"
+    },
+    "Propafenone": {
+      "atc4": [
+        "C01BC"
+      ],
+      "rxcui": "8754"
+    },
+    "Propantheline": {
+      "atc4": [
+        "A03AB"
+      ],
+      "rxcui": "8761"
+    },
+    "Propylthiouracil": {
+      "atc4": [
+        "H03BA"
+      ],
+      "rxcui": "8794"
+    },
+    "Ramipril": {
+      "atc4": [
+        "C09AA"
+      ],
+      "rxcui": "35296"
+    },
+    "Regular Insulin, Human": {
+      "atc4": [
+        "A10AB",
+        "A10AC",
+        "A10AD",
+        "A10AE",
+        "A10AF"
+      ],
+      "rxcui": "253182"
+    },
+    "Rifampin": {
+      "atc4": [
+        "J04AB"
+      ],
+      "rxcui": "9384"
+    },
+    "Rilpivirine": {
+      "atc4": [
+        "J05AG"
+      ],
+      "rxcui": "1102270"
+    },
+    "Rosuvastatin": {
+      "atc4": [
+        "C10AA"
+      ],
+      "rxcui": "301542"
+    },
+    "Salsalate": {
+      "atc4": [
+        "N02BA"
+      ],
+      "rxcui": "36108"
+    },
+    "Scopolamine": {
+      "atc4": [
+        "A04AD",
+        "N05CM",
+        "S01FA"
+      ],
+      "rxcui": "9601"
+    },
+    "Sertraline": {
+      "atc4": [
+        "N06AB"
+      ],
+      "rxcui": "36437"
+    },
+    "Simethicone": {
+      "atc4": [],
+      "rxcui": "9796"
+    },
+    "Simvastatin": {
+      "atc4": [
+        "C10AA"
+      ],
+      "rxcui": "36567"
+    },
+    "Sodium Phosphate, Monobasic": {
+      "atc4": [],
+      "rxcui": "235496"
+    },
+    "Solifenacin": {
+      "atc4": [
+        "G04BD"
+      ],
+      "rxcui": "322167"
+    },
+    "Sorafenib": {
+      "atc4": [
+        "L01EX"
+      ],
+      "rxcui": "495881"
+    },
+    "Sotalol": {
+      "atc4": [
+        "C07AA"
+      ],
+      "rxcui": "9947"
+    },
+    "Stavudine": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "59763"
+    },
+    "Sucralfate": {
+      "atc4": [
+        "A02BX"
+      ],
+      "rxcui": "10156"
+    },
+    "Sulfamethoxazole": {
+      "atc4": [
+        "J01EC"
+      ],
+      "rxcui": "10180"
+    },
+    "Sulfasalazine": {
+      "atc4": [
+        "A07EC"
+      ],
+      "rxcui": "9524"
+    },
+    "Sulfisoxazole": {
+      "atc4": [
+        "J01EB",
+        "S01AB"
+      ],
+      "rxcui": "10207"
+    },
+    "Sulindac": {
+      "atc4": [
+        "M01AB"
+      ],
+      "rxcui": "10237"
+    },
+    "Sumatriptan": {
+      "atc4": [
+        "N02CC"
+      ],
+      "rxcui": "37418"
+    },
+    "Sunitinib": {
+      "atc4": [
+        "L01EX"
+      ],
+      "rxcui": "357977"
+    },
+    "Tamoxifen": {
+      "atc4": [
+        "L02BA"
+      ],
+      "rxcui": "10324"
+    },
+    "Temazepam": {
+      "atc4": [
+        "N05CD"
+      ],
+      "rxcui": "10355"
+    },
+    "Tenofovir": {
+      "atc4": [],
+      "rxcui": "117466"
+    },
+    "Tenofovir Disoproxil": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "300195"
+    },
+    "Terazosin": {
+      "atc4": [
+        "G04CA"
+      ],
+      "rxcui": "37798"
+    },
+    "Terbinafine": {
+      "atc4": [
+        "D01AE",
+        "D01BA"
+      ],
+      "rxcui": "37801"
+    },
+    "Tetrahydrocannabinol": {
+      "atc4": [
+        "A04AD"
+      ],
+      "rxcui": "10402"
+    },
+    "Thiabendazole": {
+      "atc4": [
+        "D01AC",
+        "P02CA"
+      ],
+      "rxcui": "10450"
+    },
+    "Thioguanine": {
+      "atc4": [
+        "L01BB"
+      ],
+      "rxcui": "10485"
+    },
+    "Thiothixene": {
+      "atc4": [
+        "N05AF"
+      ],
+      "rxcui": "10510"
+    },
+    "Thyroxine": {
+      "atc4": [],
+      "rxcui": "10582"
+    },
+    "Ticlopidine": {
+      "atc4": [
+        "B01AC"
+      ],
+      "rxcui": "10594"
+    },
+    "Timolol": {
+      "atc4": [
+        "C07AA",
+        "S01ED"
+      ],
+      "rxcui": "10600"
+    },
+    "Tinidazole": {
+      "atc4": [
+        "G01AF",
+        "J01XD",
+        "P01AB"
+      ],
+      "rxcui": "10612"
+    },
+    "Tolmetin": {
+      "atc4": [
+        "M01AB",
+        "M02AA"
+      ],
+      "rxcui": "10636"
+    },
+    "Trimethoprim": {
+      "atc4": [
+        "J01EA"
+      ],
+      "rxcui": "10829"
+    },
+    "Urea": {
+      "atc4": [
+        "B05BC",
+        "D02AE"
+      ],
+      "rxcui": "11002"
+    },
+    "Ursodeoxycholate": {
+      "atc4": [],
+      "rxcui": "62427"
+    },
+    "Valproate": {
+      "atc4": [],
+      "rxcui": "40254"
+    },
+    "Vigabatrin": {
+      "atc4": [
+        "N03AG"
+      ],
+      "rxcui": "14851"
+    },
+    "Vitamin A": {
+      "atc4": [
+        "A11CA",
+        "D10AD",
+        "R01AX",
+        "S01XA"
+      ],
+      "rxcui": "11246"
+    },
+    "Zalcitabine": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "3363"
+    },
+    "Zaleplon": {
+      "atc4": [
+        "N05CF"
+      ],
+      "rxcui": "74667"
+    },
+    "Zidovudine": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "11413"
+    },
+    "abacavir": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "190521"
+    },
+    "alatrofloxacin": {
+      "atc4": [],
+      "rxcui": "141440"
+    },
+    "almotriptan": {
+      "atc4": [
+        "N02CC"
+      ],
+      "rxcui": "279645"
+    },
+    "atorvastatin": {
+      "atc4": [
+        "C10AA"
+      ],
+      "rxcui": "83367"
+    },
+    "benzonatate": {
+      "atc4": [
+        "R05DB"
+      ],
+      "rxcui": "18993"
+    },
+    "bortezomib": {
+      "atc4": [
+        "L01XG"
+      ],
+      "rxcui": "358258"
+    },
+    "bosentan": {
+      "atc4": [
+        "C02KX"
+      ],
+      "rxcui": "75207"
+    },
+    "bromfenac": {
+      "atc4": [
+        "S01BC"
+      ],
+      "rxcui": "19737"
+    },
+    "candesartan": {
+      "atc4": [
+        "C09CA"
+      ],
+      "rxcui": "214354"
+    },
+    "celecoxib": {
+      "atc4": [
+        "L01XX",
+        "M01AH"
+      ],
+      "rxcui": "140587"
+    },
+    "clopidogrel": {
+      "atc4": [
+        "B01AC"
+      ],
+      "rxcui": "32968"
+    },
+    "darbepoetin alfa": {
+      "atc4": [
+        "B03XA"
+      ],
+      "rxcui": "283838"
+    },
+    "darifenacin": {
+      "atc4": [
+        "G04BD"
+      ],
+      "rxcui": "136198"
+    },
+    "darunavir": {
+      "atc4": [
+        "J05AE"
+      ],
+      "rxcui": "460132"
+    },
+    "desloratadine": {
+      "atc4": [
+        "R06AX"
+      ],
+      "rxcui": "275635"
+    },
+    "dorzolamide": {
+      "atc4": [
+        "S01EC"
+      ],
+      "rxcui": "60207"
+    },
+    "efavirenz": {
+      "atc4": [
+        "J05AG"
+      ],
+      "rxcui": "195085"
+    },
+    "eletriptan": {
+      "atc4": [
+        "N02CC"
+      ],
+      "rxcui": "231049"
+    },
+    "entecavir": {
+      "atc4": [
+        "J05AF"
+      ],
+      "rxcui": "306266"
+    },
+    "estropipate": {
+      "atc4": [],
+      "rxcui": "33747"
+    },
+    "felbamate": {
+      "atc4": [
+        "N03AX"
+      ],
+      "rxcui": "24812"
+    },
+    "ferrous gluconate": {
+      "atc4": [
+        "B03AA"
+      ],
+      "rxcui": "24942"
+    },
+    "ferrous sulfate": {
+      "atc4": [
+        "B03AA"
+      ],
+      "rxcui": "24947"
+    },
+    "fexofenadine": {
+      "atc4": [
+        "R06AX"
+      ],
+      "rxcui": "87636"
+    },
+    "fluticasone": {
+      "atc4": [
+        "D07AC",
+        "R01AD",
+        "R03BA"
+      ],
+      "rxcui": "41126"
+    },
+    "fluvastatin": {
+      "atc4": [
+        "C10AA"
+      ],
+      "rxcui": "41127"
+    },
+    "formoterol": {
+      "atc4": [
+        "R03AC",
+        "R03CC"
+      ],
+      "rxcui": "25255"
+    },
+    "frovatriptan": {
+      "atc4": [
+        "N02CC"
+      ],
+      "rxcui": "228783"
+    },
+    "gatifloxacin": {
+      "atc4": [
+        "J01MA",
+        "S01AE"
+      ],
+      "rxcui": "228476"
+    },
+    "gemcitabine": {
+      "atc4": [
+        "L01BC"
+      ],
+      "rxcui": "12574"
+    },
+    "gemifloxacin": {
+      "atc4": [
+        "J01MA"
+      ],
+      "rxcui": "138099"
+    },
+    "glimepiride": {
+      "atc4": [
+        "A10BB"
+      ],
+      "rxcui": "25789"
+    },
+    "imatinib": {
+      "atc4": [
+        "L01EA"
+      ],
+      "rxcui": "282388"
+    },
+    "infliximab": {
+      "atc4": [
+        "L04AB"
+      ],
+      "rxcui": "191831"
+    },
+    "irbesartan": {
+      "atc4": [
+        "C09CA"
+      ],
+      "rxcui": "83818"
+    },
+    "isoniazid": {
+      "atc4": [
+        "J04AC"
+      ],
+      "rxcui": "6038"
+    },
+    "lamotrigine": {
+      "atc4": [
+        "N03AX"
+      ],
+      "rxcui": "28439"
+    },
+    "latanoprost": {
+      "atc4": [
+        "S01EE"
+      ],
+      "rxcui": "43611"
+    },
+    "lithium citrate": {
+      "atc4": [],
+      "rxcui": "52105"
+    },
+    "meloxicam": {
+      "atc4": [
+        "M01AC"
+      ],
+      "rxcui": "41493"
+    },
+    "metaxalone": {
+      "atc4": [],
+      "rxcui": "59078"
+    },
+    "moexipril": {
+      "atc4": [
+        "C09AA"
+      ],
+      "rxcui": "30131"
+    },
+    "nabumetone": {
+      "atc4": [
+        "M01AX"
+      ],
+      "rxcui": "31448"
+    },
+    "naratriptan": {
+      "atc4": [
+        "N02CC"
+      ],
+      "rxcui": "141366"
+    },
+    "nefazodone": {
+      "atc4": [
+        "N06AX"
+      ],
+      "rxcui": "31565"
+    },
+    "orlistat": {
+      "atc4": [
+        "A08AB"
+      ],
+      "rxcui": "37925"
+    },
+    "oxaprozin": {
+      "atc4": [
+        "M01AE"
+      ],
+      "rxcui": "32613"
+    },
+    "oxybutynin": {
+      "atc4": [
+        "G04BD"
+      ],
+      "rxcui": "32675"
+    },
+    "pioglitazone": {
+      "atc4": [
+        "A10BG"
+      ],
+      "rxcui": "33738"
+    },
+    "posaconazole": {
+      "atc4": [
+        "J02AC"
+      ],
+      "rxcui": "282446"
+    },
+    "prednisolone": {
+      "atc4": [
+        "A01AC",
+        "A07EA",
+        "C05AA",
+        "D07AA",
+        "D07XA",
+        "H02AB",
+        "R01AD",
+        "S01BA",
+        "S01CB",
+        "S02BA",
+        "S03BA"
+      ],
+      "rxcui": "8638"
+    },
+    "quinapril": {
+      "atc4": [
+        "C09AA"
+      ],
+      "rxcui": "35208"
+    },
+    "ramelteon": {
+      "atc4": [
+        "N05CH"
+      ],
+      "rxcui": "596205"
+    },
+    "rizatriptan": {
+      "atc4": [
+        "N02CC"
+      ],
+      "rxcui": "88014"
+    },
+    "rofecoxib": {
+      "atc4": [
+        "M01AH"
+      ],
+      "rxcui": "232158"
+    },
+    "rosiglitazone": {
+      "atc4": [
+        "A10BG"
+      ],
+      "rxcui": "84108"
+    },
+    "rosuvastatin": {
+      "atc4": [
+        "C10AA"
+      ],
+      "rxcui": "301542"
+    },
+    "salmeterol": {
+      "atc4": [
+        "R03AC"
+      ],
+      "rxcui": "36117"
+    },
+    "sitagliptin": {
+      "atc4": [
+        "A10BH"
+      ],
+      "rxcui": "593411"
+    },
+    "tamsulosin": {
+      "atc4": [
+        "G04CA"
+      ],
+      "rxcui": "77492"
+    },
+    "telmisartan": {
+      "atc4": [
+        "C09CA"
+      ],
+      "rxcui": "73494"
+    },
+    "terbinafine": {
+      "atc4": [
+        "D01AE",
+        "D01BA"
+      ],
+      "rxcui": "37801"
+    },
+    "tiotropium": {
+      "atc4": [],
+      "rxcui": "69120"
+    },
+    "tipranavir": {
+      "atc4": [
+        "J05AE"
+      ],
+      "rxcui": "190548"
+    },
+    "tolcapone": {
+      "atc4": [
+        "N04BX"
+      ],
+      "rxcui": "72937"
+    },
+    "trandolapril": {
+      "atc4": [
+        "C09AA"
+      ],
+      "rxcui": "38454"
+    },
+    "trovafloxacin": {
+      "atc4": [
+        "J01MA"
+      ],
+      "rxcui": "115552"
+    },
+    "valacyclovir": {
+      "atc4": [
+        "J05AB"
+      ],
+      "rxcui": "73645"
+    },
+    "valdecoxib": {
+      "atc4": [
+        "M01AH"
+      ],
+      "rxcui": "278567"
+    },
+    "voriconazole": {
+      "atc4": [
+        "J02AC"
+      ],
+      "rxcui": "121243"
+    },
+    "zafirlukast": {
+      "atc4": [
+        "R03DC"
+      ],
+      "rxcui": "114970"
+    },
+    "zolmitriptan": {
+      "atc4": [
+        "N02CC"
+      ],
+      "rxcui": "135775"
+    }
+  },
+  "unresolved": [
+    "Chlorazepate",
+    "Enalaprilat",
+    "Endopeptidases",
+    "Epoetin Alfa",
+    "Heparin",
+    "Ipratropium",
+    "Isosorbide",
+    "Levalbuterol",
+    "Lipase",
+    "Lithium Carbonate",
+    "Mefenamate",
+    "Olmesartan",
+    "Simethicone",
+    "Sodium Phosphate, Monobasic",
+    "Tenofovir",
+    "Thyroxine",
+    "Ursodeoxycholate",
+    "Valproate",
+    "alatrofloxacin",
+    "estropipate",
+    "lithium citrate",
+    "metaxalone",
+    "tiotropium"
+  ]
+}
