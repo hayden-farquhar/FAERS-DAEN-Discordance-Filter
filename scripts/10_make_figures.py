@@ -114,7 +114,7 @@ def figure_2_counterfactual():
     }
     ordered = [next(r for r in cf if r["tag"] == t) for t in order]
 
-    fig, axes = plt.subplots(1, 2, figsize=(12, 5.5), gridspec_kw={"width_ratios": [1, 1.2]})
+    fig, axes = plt.subplots(1, 2, figsize=(12, 6.0), gridspec_kw={"width_ratios": [1, 1.2]})
 
     # Panel A: H1 OR comparison
     ax = axes[0]
@@ -147,8 +147,11 @@ def figure_2_counterfactual():
         else:
             ax.errorbar(val, y_positions[i], xerr=[[val - lo], [hi - val]],
                           fmt="o", color=c, markersize=10, capsize=4, lw=2, zorder=3)
-            ax.text(val, y_positions[i] - 0.30, f"OR = {val:.2f}\n[{lo:.2f}, {hi:.2f}]\np = {ordered[i]['pval_fe']:.4f}",
-                     ha="center", va="top", fontsize=7.5, color=c, weight="bold")
+            # Anchor the OR/CI/p label ABOVE the marker and grow it upward (va="bottom").
+            # The CI whisker is horizontal at exactly the marker's y, so a downward-
+            # growing label crosses its own whisker; growing upward clears it.
+            ax.text(val, y_positions[i] - 0.16, f"OR = {val:.2f}\n[{lo:.2f}, {hi:.2f}]\np = {ordered[i]['pval_fe']:.4f}",
+                     ha="center", va="bottom", fontsize=7.5, color=c, weight="bold")
 
     ax.set_yticks(y_positions); ax.set_yticklabels(labels, fontsize=8.5)
     ax.set_xscale("log")
@@ -158,12 +161,12 @@ def figure_2_counterfactual():
     ax.text(2, len(ordered) - 0.42, "OR = 2", rotation=90, va="bottom", ha="center",
              fontsize=7, color="#999")
     ax.set_xlabel("H1 reference-negative enrichment OR (95% CI)\n— fixed-effect logistic", fontsize=9)
-    ax.set_title("A. The methodological cautionary\nH1 result depends entirely on the power-tag choice",
+    ax.set_title("A. H1 enrichment OR by power tag",
                   fontsize=10, weight="bold", loc="left")
     ax.invert_yaxis()
-    # Headroom above the top row so the 'OR undefined' box cannot rise into the title;
-    # extra room below for the per-row OR/CI/p annotations.
-    ax.set_ylim(len(ordered) - 0.35, -0.95)
+    # Headroom above the top row so the upward-growing OR/CI/p labels (and the
+    # 'OR undefined' box) cannot rise into the title.
+    ax.set_ylim(len(ordered) - 0.35, -1.15)
     ax.grid(axis="x", alpha=0.2, ls=":")
 
     # Panel B: H1 stratum cells visualised
@@ -197,15 +200,14 @@ def figure_2_counterfactual():
 
     ax.set_yticks(bar_y); ax.set_yticklabels(labels, fontsize=8.5)
     ax.set_xlabel("Count of pairs in H1 stratum", fontsize=9)
-    ax.set_title("B. The H1 stratum cells\n(red = known-negatives in faers_only — the H1-driving cell)",
+    ax.set_title("B. H1 stratum cell counts",
                   fontsize=10, weight="bold", loc="left")
     ax.invert_yaxis()
     ax.legend(loc="lower right", framealpha=0.9, ncol=2, fontsize=7.5)
     ax.set_xlim(0, max(cells_data.sum(axis=1)) * 1.18)
 
-    fig.suptitle("Figure 2. Counterfactual: what the naive FAERS-derived-power analysis would have shown vs the\n"
-                  "pre-registered MDE-anchored primary, on the same 492-pair Arm-1 substrate",
-                  fontsize=10.5, weight="bold", y=1.02)
+    fig.suptitle("Counterfactual: FAERS-derived power vs the MDE-anchored primary",
+                  fontsize=11, weight="bold", y=1.0)
     _save(fig, "figure_2_counterfactual_centrepiece")
 
 
@@ -238,10 +240,8 @@ def figure_3_h2_forest():
     ax.axvline(0.136, color="#1f5f7a", lw=0.8, ls=":", alpha=0.5)
     ax.set_yticks(y); ax.set_yticklabels([r[0] for r in rows], fontsize=9)
     ax.set_xlabel("H2 power-conditioned non-replication rate (95% cluster-bootstrap CI)", fontsize=9)
-    ax.set_title("Figure 3. H2 robustness across pre-registered sensitivity arms (Section 10.7).\n"
-                  "H2 is robust to power-threshold and Poisson perturbations; the MDE-anchor sensitivity\n"
-                  "shows the H2 construct caveat (Section 4) made concrete.",
-                  fontsize=10, loc="left")
+    ax.set_title("H2 power-conditioned non-replication rate across sensitivity arms",
+                  fontsize=11, weight="bold", loc="left")
     ax.invert_yaxis()
     ax.set_xlim(-0.02, 0.85)
     ax.grid(axis="x", alpha=0.2, ls=":")
@@ -270,10 +270,8 @@ def figure_4_family3_forest():
     ax.axvline(0, color="#888", lw=0.8, ls="--")
     ax.set_yticks(y); ax.set_yticklabels([r[0] for r in rows], fontsize=9)
     ax.set_xlabel("Δ = faers_only proportion − concordant_positive proportion (percentage points; 95% Newcombe CI)", fontsize=9)
-    ax.set_title("Figure 4. Family 3 mechanism arm (Arm-2 discovery universe; n = 4,300 daen_powered pairs).\n"
-                  "Holm-Bonferroni at family-wise α = 0.05, k = 4. "
-                  "H5a + H5d support; H5b rejects in contradictory direction; H5c null.",
-                  fontsize=10, loc="left")
+    ax.set_title("Family 3 mechanism arm: discordance-associated effect sizes (H5a–H5d)",
+                  fontsize=11, weight="bold", loc="left")
     ax.invert_yaxis()
     ax.set_xlim(-4.5, 22)
     ax.grid(axis="x", alpha=0.2, ls=":")
@@ -309,9 +307,8 @@ def figure_5_mosaic():
     ax.set_xlim(-0.5, 10.5); ax.set_ylim(-0.5, 10.5)
     ax.set_xticks([2.5, 7.5]); ax.set_xticklabels(["DAEN signal +", "DAEN signal −"], fontsize=10)
     ax.set_yticks([2.5, 7.5]); ax.set_yticklabels(["FAERS signal −", "FAERS signal +"], fontsize=10)
-    ax.set_title(f"Figure 5. Cross-database 2×2 on the power-conditioned universe (daen_powered, n = {n}).\n"
-                  f"PA+ = 0.916 (95% CI 0.811–0.964); Cohen's κ = 0.588.",
-                  fontsize=10, loc="left")
+    ax.set_title("Cross-database 2×2 on the power-conditioned universe",
+                  fontsize=11, weight="bold", loc="left")
     ax.set_aspect("equal")
     for spine in ["top", "right", "left", "bottom"]:
         ax.spines[spine].set_visible(False)
@@ -343,9 +340,8 @@ def figure_6_h4_balance():
         mpatches.Patch(color="#c0392b", label="Known-negative reference"),
     ]
     ax.legend(handles=legend_handles, loc="lower right")
-    ax.set_title("Figure 6. H4 balance — Australian DAEN signals FAERS does not detect (faers_powered subset; n = 11).\n"
-                  "7 of 11 are reference-negatives, and the negatives carry the larger RORs: discordance is negative-leaning on the DAEN side too.",
-                  fontsize=10, loc="left")
+    ax.set_title("H4 balance: Australian DAEN-only signals FAERS does not detect",
+                  fontsize=11, weight="bold", loc="left")
     ax.invert_yaxis()
     _save(fig, "figure_6_h4_balance")
 
