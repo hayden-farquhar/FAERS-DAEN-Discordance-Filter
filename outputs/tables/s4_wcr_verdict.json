@@ -1,0 +1,32 @@
+{
+  "claim": "Restricted wild cluster bootstrap (WCR) coverage is nearer nominal than cluster-robust SE at K<=10, and the gap closes as K->50.",
+  "read_on_rule": "mde_1.5",
+  "estimands_compared": [
+    "cluster_robust",
+    "wild_cluster_bootstrap",
+    "wild_cluster_bootstrap_restricted"
+  ],
+  "coverage_by_estimator_K": {
+    "cluster_robust": {
+      "5": 0.9439252336448598,
+      "10": 0.9592696629213483,
+      "20": 0.9819819819819819,
+      "50": 0.9944444444444445
+    },
+    "wild_cluster_bootstrap": {
+      "5": 0.9283489096573209,
+      "10": 0.9480337078651685,
+      "20": 0.9669669669669669,
+      "50": 0.9916666666666667
+    },
+    "wild_cluster_bootstrap_restricted": {
+      "5": 0.9686800894854586,
+      "10": 0.9839004756677644,
+      "20": 0.987582176771366,
+      "50": 0.9925428784489188
+    }
+  },
+  "wcr_nearer_nominal_at_small_K": false,
+  "gap_closes_at_K50": true,
+  "verdict": "NOT SUPPORTED"
+}

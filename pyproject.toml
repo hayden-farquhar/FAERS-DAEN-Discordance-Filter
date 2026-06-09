@@ -1,7 +1,7 @@
 [project]
 name = "faers-daen-discordance"
-version = "1.0.0"
-description = "Cross-database discordance as a drug-safety artefact filter: a pre-registered FAERS-DAEN test. Pre-registration: https://doi.org/10.17605/OSF.IO/ZQ97A"
+version = "2.0.0"
+description = "Power-conditioning selection bias in cross-database pharmacovigilance replication: a simulation study of the reference-negative enrichment test, with a pre-registered FAERS-DAEN case study. Pre-registration: https://doi.org/10.17605/OSF.IO/ZQ97A"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [{ name = "Hayden Farquhar" }]
@@ -12,15 +12,21 @@ dependencies = [
     "statsmodels>=0.14",
     "pyarrow>=16",
     "tqdm>=4.66",
+    "PyYAML>=6.0",
+    "matplotlib>=3.8",
 ]
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
+figures = ["scienceplots>=2.1"]
 
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
 addopts = "-q"
+markers = [
+    "slow: long-running simulation cells (deselect with '-m \"not slow\"')",
+]
 
 [build-system]
 requires = ["setuptools>=68"]

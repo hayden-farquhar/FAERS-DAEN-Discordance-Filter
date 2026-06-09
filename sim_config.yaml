@@ -1,0 +1,71 @@
+# Simulation configuration — locked at G-SIM closure (protocol Section 10).
+#
+# This file pins every swept level, the replicate count, the master seed, and the
+# marginal-distribution parameters. It is the single source of truth the sweep
+# driver reads; nothing about the DGP grid is hard-coded in Python.
+#
+# INTEGRITY NOTE. The marginal-distribution parameters below are FITTED to the
+# empirical FAERS drug- and event-margin histograms from the locked Arm-1
+# reference frame (results/perpair_arm1.parquet) by src/simulation/calibrate.py;
+# the fit is deposited at results/marginal_calibration.json (2026-06-08). The
+# DAEN-side derivation (rho-scale + Poisson resample) is left as deposited: it is
+# NOT re-scaled by a coverage factor, because the empirical FAERS->DAEN drug-margin
+# ratio is size-dependent (mean 3.3, median 0.67), so no single constant models it
+# without becoming an arbitrary results-affecting knob. G-SIM check 1 (empirical-
+# anchor sanity, Section 9.1) is closed: seeded with the empirical marginals and
+# effect sizes, the simulator reproduces 52/44/6 within MC error
+# (tests/test_simulation_gsim.py::test_gsim1_empirical_anchor_sanity).
+
+seed_master: 94          # numpy SeedSequence entropy (protocol Section 9.3)
+replicates: 2000         # per DGP cell (fixed at lock, Section 7)
+alpha: 0.05
+type_i_band: [0.0, 0.075]   # pass band for the type-I endpoint (Section 7)
+
+# Monte-Carlo budgets (implementation detail of the power model / bootstrap).
+mc_power_B: 400          # FAERS-derived selection power check (per pair)
+bootstrap_B: 999         # wild cluster bootstrap resamples
+
+# --- swept factors (protocol Section 4, Table) --------------------------------
+factors:
+  pi:             [0.3, 0.5, 0.7]          # true-null fraction
+  lambda_inflate: [1, 2, 5, 10]            # FAERS inflation factor
+  phi:            [0.0, 0.25, 0.5, 1.0]    # artefact prevalence among nulls
+  rho:            [0.025, 0.05, 0.1]       # DAEN/FAERS size ratio (1/40, 1/20, 1/10)
+  K:              [5, 10, 20, 50]          # event clusters
+  icc:            [0.0, 0.1, 0.3]          # within-event ICC
+  OR_true:        [1.5, 2, 3, 5, lognormal]
+
+# --- analysis design (Section 4): primary slice + one-at-a-time marginal sweeps
+primary_slice:
+  rho: 0.025
+  icc: 0.1
+  OR_true: 2
+  K: 10
+  # lambda_inflate x phi x pi are swept within the primary slice.
+
+marginal_sweeps: [rho, K, icc, OR_true]   # each varied one at a time off the slice
+
+regimes: [Q1_null, Q2_alt]
+
+# Q2 informative-discordance knob: DAEN OR multiplier applied to artefactual nulls
+# so their DAEN association is genuinely suppressed below power-alone expectation.
+q2_daen_suppression: 0.5
+
+# --- population scale + marginal draw (FITTED — see INTEGRITY NOTE) ------------
+population:
+  n_pairs: 492                  # empirical Arm-1 reference-set size (thin-stratum realism)
+  N_F: 20005192                 # empirical FAERS surviving-case total
+marginals:
+  calibrated: true              # fitted to empirical histograms (calibrate.py, 2026-06-08)
+  log_mu_drug: 8.8644           # MLE, lognormal on empirical FAERS drug margin
+  log_sd_drug: 2.2558
+  log_mu_event: 12.4066         # MLE, lognormal on empirical FAERS event margin
+  log_sd_event: 0.6013
+
+# --- empirical anchor targets (G-SIM check 1; Section 9.1) --------------------
+# The simulator seeded with empirical marginals + label split must reproduce these
+# Arm-1 powered-stratum counts to within Monte-Carlo error before any cell runs.
+empirical_anchor:
+  daen_powered: 52
+  h1_stratum: 44
+  faers_only: 6

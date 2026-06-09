@@ -1,7 +1,7 @@
 {
-  "title": "Cross-database discordance as a drug-safety artefact filter (FAERS-DAEN) — analysis code",
+  "title": "Power-conditioning selection bias in cross-database pharmacovigilance replication (FAERS-DAEN): analysis and simulation code",
   "upload_type": "software",
-  "description": "Reproducibility code for the pre-registered study \"Cross-database discordance as a drug-safety artefact filter: a pre-registered FAERS-DAEN test, and the power-conditioning circularity that would have manufactured its confirmation.\" Implements the MDE-anchored power model, the per-pair 2x2 disproportionality pipeline in FAERS and DAEN, the ground-truth artefact-enrichment test, and all sensitivity arms and figures.",
+  "description": "Reproducibility code for the simulation-led study \"Power-conditioning selection bias in cross-database pharmacovigilance replication: a simulation study of the reference-negative enrichment test, with a pre-registered FAERS-DAEN case study.\" The primary contribution is a simulation of the reference-negative enrichment test across a 126-cell data-generating grid (2,000 replicates per cell, six power-conditioning selection rules, four cluster-aware estimators), reporting type-I error, power, and few-clusters confidence-interval coverage, with four pre-registered hypotheses (S1-S4) graded honest-either-way. The simulation runs from a clean clone with no external data (fitted marginals are baked into sim_config.yaml). The repository also reproduces the demoted empirical FAERS-DAEN case study: the per-pair 2x2 disproportionality pipeline, the minimum-detectable-effect (MDE) power model, the ground-truth reference-negative enrichment test, and all sensitivity arms and figures.",
   "license": "MIT",
   "access_right": "open",
   "creators": [
@@ -18,6 +18,15 @@
     "FAERS",
     "DAEN",
     "signal detection",
+    "simulation study",
+    "type-I error",
+    "selection bias",
+    "collider bias",
+    "winner's curse",
+    "observed-power fallacy",
+    "minimum detectable effect",
+    "cluster-robust inference",
+    "wild cluster bootstrap",
     "reproducibility",
     "statistical power",
     "reporting artefact"
@@ -25,6 +34,11 @@
   "related_identifiers": [
     {
       "identifier": "10.17605/OSF.IO/ZQ97A",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.20482058",
       "relation": "isSupplementTo",
       "scheme": "doi"
     }

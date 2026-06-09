@@ -94,8 +94,9 @@ def _h1_stratum(perpair: pd.DataFrame) -> pd.DataFrame:
     """The H1 stratum: FAERS-positive AND daen_powered AND in OMOP+EU-ADR Arm-1,
     restricted to the cross_db_class in {faers_only, concordant_positive} (the
     two rows of the H1 contrast)."""
-    s = perpair[(perpair["faers_signal"]) & (perpair["daen_powered"])].copy()
-    s = s[s["cross_db_class"].isin(["faers_only", "concordant_positive"])]
+    mask = (perpair["faers_signal"] & perpair["daen_powered"]
+            & perpair["cross_db_class"].isin(["faers_only", "concordant_positive"]))
+    s = perpair.loc[mask].copy()
     s["is_faers_only"] = (s["cross_db_class"] == "faers_only").astype(int)
     s["is_known_neg"] = (s["groundTruth"] == 0).astype(int)
     return s

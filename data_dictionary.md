@@ -127,3 +127,41 @@ Key columns:
 | `daen_powered_at_2` / `_at_3` | permissive anchors (`≤ 2.0` / `≤ 3.0`) |
 | `daen_powered_FAERS_pt` / `_FAERS_LB` | the **FAERS-derived-power** definitions whose circularity the paper demonstrates |
 | `faers_power_at_15`, `faers_powered` | analogous FAERS-side power diagnostics |
+
+---
+
+## Simulation output table (`results/sim_results.parquet`)
+
+Produced by `src/simulation/sweep.py` (driven by `run_local_fill.sh` / `run_cells.py`).
+One row per fitted estimator within each replicate of each grid cell: 126 cells
+× 2,000 replicates × 6 selection rules × 4 estimators = 6,048,000 rows, 29 columns.
+The file reads only `sim_config.yaml`; no external data is required.
+
+| Column | Type | Description |
+|---|---|---|
+| `regime` | str | data-generating regime: `Q1_null` (type-I) or `Q2_alt` (power) |
+| `pi` | float | prevalence of reference-negative status among generated pairs |
+| `lambda_inflate` | int | FAERS-only inflation factor applied under the alternative |
+| `phi` | float | dispersion / over-reporting parameter of the report-count model |
+| `rho` | float | within-cluster correlation target on the latent scale |
+| `K` | int | number of clusters (drug families) in the stratum |
+| `icc` | float | realised intracluster correlation |
+| `OR_true` | str | true enrichment odds ratio for the cell (`null` under Q1) |
+| `N_F` | int | FAERS background total report count (fixed at 20,005,192) |
+| `n_pairs` | int | target number of drug–event pairs generated per replicate |
+| `q2_daen_suppression` | float | DAEN suppression multiplier under the alternative |
+| `or_lognormal_mu` / `or_lognormal_sigma` | float | log-normal effect-size distribution parameters |
+| `label` | str | human-readable cell label |
+| `cell_id` | str | grid-cell identifier (keys the per-cell seed stream) |
+| `replicate` | int | replicate index within the cell |
+| `selection_rule` | str | one of `mde_1.5`, `mde_2.0`, `mde_3.0`, `faers_point`, `faers_lb`, `none` |
+| `estimator` | str | one of `fixed_effect`, `cluster_robust`, `wild_cluster_bootstrap`, `firth` |
+| `reject` | bool | 1 if 95% CI lower bound of the enrichment OR > 1 (non-estimable scored 0) |
+| `non_estimable` | bool | 1 if the fit failed (e.g. complete separation) |
+| `or_hat` | float | estimated enrichment odds ratio |
+| `ci_lo` / `ci_hi` | float | 95% confidence-interval bounds for the enrichment OR |
+| `beta` / `se` | float | log-OR coefficient on `is_faers_only` and its standard error |
+| `stratum_size` | int | number of pairs surviving the selection rule in this replicate |
+| `n_faers_only` | int | count of FAERS-only (discordant) pairs in the stratum |
+| `n_concordant_positive` | int | count of concordant-positive pairs in the stratum |
+| `n_clusters` | int | number of clusters represented after selection |
